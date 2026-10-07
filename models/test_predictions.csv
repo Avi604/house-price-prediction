@@ -1,0 +1,1976 @@
+location,area_type,total_sqft,bhk,bath,balcony,ready_to_move,actual,predicted
+Sarjapur  Road,Super built-up Area,1510.0,3,2,1,1,110.0,84.32515438918593
+Other,Super built-up Area,1500.0,3,3,2,1,85.0,80.9608845523028
+Other,Super built-up Area,700.0,2,2,0,1,43.0,34.44791387171802
+Other,Built-up Area,2400.0,4,4,1,1,150.0,141.21491466976823
+Other,Super built-up Area,1230.0,2,2,1,1,50.0,64.98370204545775
+Banashankari Stage VI,Super built-up Area,1160.0,2,2,1,0,59.0,51.88164835374547
+Electronic City Phase II,Super built-up Area,1116.0,2,2,2,1,37.0,39.2141446580365
+Nagarbhavi,Plot Area,1250.0,4,3,0,1,175.0,82.46545037885183
+Hulimavu,Super built-up Area,1021.0,2,2,1,1,76.0,52.45539190897312
+Other,Super built-up Area,1200.0,2,2,2,1,55.0,62.597957436044574
+Jalahalli,Super built-up Area,2250.0,3,3,2,1,160.0,150.2063262658984
+R.T. Nagar,Super built-up Area,1400.0,3,2,3,1,78.0,83.02078657292395
+Other,Super built-up Area,1945.0,3,3,2,1,135.0,108.9321045937963
+Old Madras Road,Super built-up Area,1330.0,2,2,2,1,74.0,70.53179261543252
+Doddakallasandra,Super built-up Area,1010.0,2,2,1,1,40.4,40.35996582214675
+Thigalarapalya,Super built-up Area,1400.0,2,2,2,1,105.0,93.40041342168745
+Thanisandra,Super built-up Area,1276.0,2,2,2,1,75.0,72.42881235741976
+Other,Super built-up Area,4750.0,4,5,2,1,600.0,314.05797167055096
+Sarjapur  Road,Super built-up Area,2720.0,3,5,2,1,210.0,182.64054014179902
+Thanisandra,Super built-up Area,760.0,1,1,2,1,50.4,39.97977367323458
+Kogilu,Super built-up Area,1559.0,3,3,2,0,127.0,66.63999661794642
+Yelachenahalli,Super built-up Area,800.0,2,1,1,1,30.0,41.389380040980136
+Jigani,Super built-up Area,1252.0,3,3,3,1,70.0,66.61172386902044
+2nd Stage Nagarbhavi,Plot Area,1500.0,4,3,2,1,230.0,233.1933352864596
+Other,Plot Area,4446.0,3,3,2,1,410.0,348.66243531738286
+Panathur,Built-up Area,1065.0,2,2,1,1,58.0,64.64451691454829
+Sarjapur,Built-up Area,2585.5,4,4,0,0,115.0,109.70357046678237
+Yelenahalli,Super built-up Area,1650.0,3,3,3,1,68.0,65.2523802985195
+Seegehalli,Super built-up Area,1553.0,3,3,3,1,68.0,70.0860982186658
+Attibele,Built-up Area,420.0,1,1,1,1,17.0,11.758312245361761
+Sarjapur  Road,Super built-up Area,2070.0,3,4,2,1,160.0,128.89388102825396
+Thigalarapalya,Super built-up Area,1418.0,2,2,2,1,101.0,94.7733748538869
+Thanisandra,Super built-up Area,2259.0,4,5,2,0,135.0,142.1652238346098
+Dodda Nekkundi,Super built-up Area,1155.0,2,2,1,1,46.0,53.336457270934034
+Other,Built-up Area,1738.0,3,3,0,1,110.0,98.34567801724576
+Other,Super built-up Area,1650.0,3,3,2,1,75.0,90.27280673485082
+Kathriguppe,Super built-up Area,1350.0,3,2,1,1,87.01,76.81728760104026
+Whitefield,Super built-up Area,1346.0,2,2,1,0,96.17,68.81477589554498
+Hormavu,Super built-up Area,765.0,2,2,1,1,37.49,32.273080308831496
+Other,Built-up Area,900.0,2,2,1,1,33.0,45.84304534501519
+Chandapura,Super built-up Area,1505.0,3,2,2,1,42.0,44.673550795126104
+Kanakpura Road,Super built-up Area,1419.59,3,2,1,1,59.0,70.58916195077325
+Cunningham Road,Super built-up Area,2880.0,3,3,2,1,560.0,538.4518878854301
+Other,Plot Area,680.0,2,2,0,1,42.0,41.485796009659126
+Yelahanka,Super built-up Area,1200.0,2,2,1,1,54.0,58.72329129473775
+Yelahanka New Town,Super built-up Area,500.0,1,2,1,1,24.0,20.056717858490394
+Kanakpura Road,Carpet Area,1600.0,3,3,3,1,90.0,89.82339984833125
+Whitefield,Super built-up Area,1150.0,2,2,2,1,55.0,58.079150645428165
+Budigere,Super built-up Area,764.0,1,1,1,0,32.0,35.0031872098506
+Whitefield,Built-up Area,2830.0,4,4,3,0,161.0,159.8888781851778
+Hennur Road,Super built-up Area,1832.0,3,3,1,1,116.0,112.56797827079023
+7th Phase JP Nagar,Super built-up Area,1850.0,3,3,2,1,150.0,125.8331943399647
+Kathriguppe,Super built-up Area,1350.0,3,2,1,1,80.99,76.81728760104026
+Other,Plot Area,1200.0,2,2,2,1,125.0,77.92501054960982
+Pai Layout,Super built-up Area,1075.0,2,2,2,1,35.0,46.78691757093631
+Sarjapur  Road,Super built-up Area,1026.0,2,2,1,1,60.55,56.12103972000965
+Bisuvanahalli,Super built-up Area,1200.0,3,2,1,1,41.0,46.83367506479022
+Yelahanka New Town,Super built-up Area,1610.0,3,3,2,1,92.0,73.20092242812245
+Sarjapur  Road,Super built-up Area,984.0,2,2,1,0,59.0,52.47911562035729
+Electronic City,Built-up Area,1070.0,2,2,1,0,57.0,45.318999895476274
+Other,Super built-up Area,935.0,2,2,1,0,32.73,46.59753125350786
+Kannamangala,Built-up Area,957.0,2,2,1,1,56.0,52.810047039239706
+Bommasandra Industrial Area,Built-up Area,1020.0,2,2,1,0,29.45,29.092192551611507
+Raja Rajeshwari Nagar,Super built-up Area,1160.0,2,2,1,0,70.0,46.94621505655673
+Sarjapur  Road,Super built-up Area,1308.0,2,2,1,1,83.0,74.06109702053169
+Other,Super built-up Area,1368.0,2,2,3,1,87.0,72.03876498095124
+5th Block Hbr Layout,Built-up Area,5100.0,6,5,3,1,300.0,263.06525925189084
+Other,Plot Area,1560.0,5,5,1,1,145.0,106.87555120268735
+Yeshwanthpur,Super built-up Area,1713.0,3,3,2,0,110.0,103.16967963626995
+Konanakunte,Plot Area,3746.0,4,6,1,1,375.0,400.58050080268396
+Raja Rajeshwari Nagar,Super built-up Area,1250.0,2,2,2,1,68.0,51.65106536948192
+Other,Built-up Area,5000.0,4,5,2,1,600.0,335.6511275742592
+Iblur Village,Super built-up Area,3596.0,4,5,1,1,279.0,276.8740887320276
+Kumaraswami Layout,Built-up Area,3200.0,7,7,0,1,150.0,202.23533279231285
+Other,Super built-up Area,1191.0,2,2,1,1,90.0,62.63545527636096
+Electronics City Phase 1,Built-up Area,1080.0,2,2,2,1,46.0,51.52327575023874
+Marathahalli,Super built-up Area,3951.0,4,4,3,1,230.0,251.78892328389267
+2nd Stage Nagarbhavi,Plot Area,3000.0,6,8,3,1,451.0,571.8653218525454
+Budigere,Super built-up Area,1991.0,3,4,2,1,88.0,110.05383980518182
+Electronic City Phase II,Super built-up Area,1549.0,3,3,2,1,80.0,57.16170415321245
+7th Phase JP Nagar,Built-up Area,1050.0,3,2,1,1,57.0,64.61757101599085
+Mahadevpura,Super built-up Area,730.0,1,1,1,1,35.0,32.03848632674964
+Sarjapur  Road,Super built-up Area,1346.0,2,2,1,0,74.03,75.05723398453306
+Talaghattapura,Super built-up Area,1100.0,2,2,1,1,49.49,65.41837414346746
+Vittasandra,Super built-up Area,1404.0,2,2,1,1,75.0,73.37494197920918
+Other,Built-up Area,1220.0,3,2,1,0,35.23,61.50457163777521
+Yelahanka,Super built-up Area,1653.0,3,3,3,1,93.0,83.31417306280365
+Other,Super built-up Area,1407.0,2,2,1,1,83.87,75.77056871375734
+Rayasandra,Super built-up Area,1708.0,3,3,2,0,75.0,78.18324469212438
+Electronic City,Super built-up Area,418.0,1,1,1,1,12.0,15.629700642396713
+Raja Rajeshwari Nagar,Super built-up Area,1303.0,2,2,2,1,55.79,54.16010221110602
+Other,Super built-up Area,825.0,2,2,1,1,35.0,41.179024992751415
+Kalena Agrahara,Built-up Area,1040.0,2,2,2,1,45.0,52.14702025886557
+Electronic City,Super built-up Area,1500.0,3,2,1,1,64.5,65.15629169412708
+Hormavu,Super built-up Area,715.0,1,1,2,0,46.0,28.96623052165815
+Bellandur,Super built-up Area,981.0,2,2,2,1,37.28,50.873919683859135
+Uttarahalli,Built-up Area,1085.0,2,2,2,1,43.0,43.9717669757679
+Hennur Road,Super built-up Area,1586.0,3,3,3,1,93.94,93.73326723273911
+Jalahalli,Built-up Area,980.0,3,2,2,1,60.0,56.48294476034027
+Uttarahalli,Super built-up Area,1270.0,3,2,2,1,55.25,50.462344448850374
+Raja Rajeshwari Nagar,Super built-up Area,1140.0,2,2,2,1,39.0,46.49245846722155
+Ramagondanahalli,Super built-up Area,2257.0,3,3,2,1,159.0,116.00991753676297
+Sarjapur  Road,Built-up Area,1565.0,3,3,2,1,78.0,90.99887609345238
+Mysore Road,Super built-up Area,1500.0,3,3,2,1,70.0,78.18913793218523
+Choodasandra,Super built-up Area,1560.0,3,3,2,1,78.0,82.74793963087068
+Other,Carpet Area,1100.0,2,2,2,1,65.0,61.7723447104955
+Bharathi Nagar,Super built-up Area,1351.0,2,2,2,1,74.0,61.21487456851679
+Thanisandra,Super built-up Area,747.0,1,1,0,0,34.355,39.162134092588204
+Ardendale,Super built-up Area,1723.0,3,3,2,1,95.0,94.79543963243523
+Horamavu Agara,Super built-up Area,1756.0,3,3,2,0,92.0,80.35220409657326
+Balagere,Super built-up Area,656.0,1,1,1,0,34.77,37.43866776320324
+Channasandra,Super built-up Area,1160.0,2,2,1,1,55.0,44.56227627809839
+Other,Built-up Area,2700.0,4,3,2,1,230.0,154.32022903853496
+Poorna Pragna Layout,Super built-up Area,920.0,2,2,2,1,39.55,38.63997823623465
+Ardendale,Super built-up Area,1777.26,3,3,2,1,105.0,98.21298782201046
+Other,Super built-up Area,3000.0,4,3,3,0,300.0,167.82577747997018
+Hosa Road,Super built-up Area,1318.0,3,2,1,0,85.28,66.15520198990097
+Uttarahalli,Super built-up Area,1245.0,3,2,2,1,43.58,49.329262891622875
+Padmanabhanagar,Built-up Area,3400.0,4,3,1,1,210.0,232.34805958474732
+Other,Super built-up Area,705.0,1,1,1,1,65.0,34.33061340822801
+Yelahanka,Super built-up Area,1185.0,2,2,2,1,45.0,57.355564707433
+Other,Super built-up Area,1650.0,3,3,1,1,165.0,91.10698232203669
+Ambedkar Nagar,Super built-up Area,1950.0,3,4,2,1,120.0,128.2476893769517
+Electronic City,Super built-up Area,995.0,2,2,1,1,48.0,42.189192409880164
+Uttarahalli,Super built-up Area,1590.0,3,3,2,1,58.0,67.66104599313942
+Bisuvanahalli,Built-up Area,1075.0,3,2,1,1,41.49,41.631429302020216
+Raja Rajeshwari Nagar,Built-up Area,1757.0,3,3,3,1,98.0,76.28391515280957
+6th Phase JP Nagar,Super built-up Area,1280.0,2,2,1,1,88.0,83.00824243954418
+Sarjapura - Attibele Road,Super built-up Area,1330.0,3,2,1,1,48.0,41.89432859204185
+Hoodi,Super built-up Area,2090.0,4,4,0,0,95.1,123.72726384942749
+Ramamurthy Nagar,Super built-up Area,1200.0,2,2,1,0,46.0,54.09253986119466
+Marathahalli,Built-up Area,1100.0,1,2,2,1,75.0,61.232859957575116
+Other,Super built-up Area,1340.0,2,2,2,1,55.7,71.00711858175485
+9th Phase JP Nagar,Super built-up Area,1050.0,2,2,2,0,35.0,46.877352514426654
+Attibele,Built-up Area,450.0,1,1,1,1,12.5,12.722461254582203
+Bannerghatta Road,Super built-up Area,1427.0,3,2,2,0,48.51,70.51503360492072
+Kasturi Nagar,Super built-up Area,1567.0,2,2,2,1,92.0,96.40230998132135
+Kothanur,Super built-up Area,1142.0,2,2,2,1,56.0,56.38212296021976
+Rajiv Nagar,Super built-up Area,1690.0,3,3,1,1,125.0,107.96169596397662
+Raja Rajeshwari Nagar,Super built-up Area,1151.0,2,2,1,1,49.0,47.43960251115015
+HBR Layout,Super built-up Area,1200.0,2,2,2,1,60.0,77.45611840592305
+Gunjur,Super built-up Area,2132.0,3,3,3,1,80.0,93.97889197819188
+Other,Super built-up Area,1533.0,3,3,2,1,150.0,82.99859432814652
+Hennur Road,Built-up Area,2000.0,4,4,0,1,90.0,126.87772967259014
+Old Airport Road,Super built-up Area,2690.0,4,4,3,0,199.0,201.2332375320485
+Brookefield,Built-up Area,1100.0,2,2,1,1,55.0,63.668204246922166
+Haralur Road,Super built-up Area,1225.0,2,2,1,0,69.84,63.11039544344831
+Hebbal,Super built-up Area,2790.0,4,4,3,0,198.0,207.36148562160656
+Other,Plot Area,1600.0,5,5,2,1,140.0,109.00423458858526
+Kodichikkanahalli,Super built-up Area,1299.0,2,2,3,1,58.0,58.02349848843593
+Other,Plot Area,1050.0,2,2,1,1,110.0,67.51946845425753
+Other,Built-up Area,1080.0,2,2,3,1,64.0,55.42816991546212
+Chandapura,Super built-up Area,1225.0,3,3,1,0,33.08,36.25887386946676
+Chikkabanavar,Super built-up Area,1320.0,3,2,2,1,46.0,50.2137775073912
+Hoskote,Super built-up Area,1065.0,2,2,2,1,28.5,36.035019856989756
+Kundalahalli,Super built-up Area,1724.0,3,3,3,0,140.0,118.45611934543855
+Kaggadasapura,Super built-up Area,960.0,2,2,1,1,45.0,39.227608676086675
+Benson Town,Super built-up Area,2850.0,3,4,3,1,470.0,384.6505167421204
+Hoskote,Super built-up Area,1250.0,3,3,2,1,50.0,43.37097239122276
+Thigalarapalya,Super built-up Area,2215.0,3,4,2,1,160.0,164.00312967159857
+Jigani,Super built-up Area,1230.0,3,3,3,1,54.0,65.27638170998303
+Sarjapur  Road,Super built-up Area,1600.0,3,3,1,1,85.0,93.44808568824783
+Kaikondrahalli,Super built-up Area,991.0,2,2,0,1,64.0,58.288338020667986
+Ramamurthy Nagar,Built-up Area,540.0,1,1,0,1,35.0,22.481535097506466
+Kaval Byrasandra,Built-up Area,1180.0,2,2,2,1,60.0,56.88744997226591
+EPIP Zone,Super built-up Area,1860.0,3,3,2,0,130.0,122.54878647372206
+Other,Built-up Area,1025.0,2,2,0,1,42.5,53.67663008369082
+Thigalarapalya,Super built-up Area,3122.0,4,6,2,1,230.0,252.36482010067138
+Whitefield,Super built-up Area,1295.0,2,2,1,0,64.5,65.84453815662435
+Other,Super built-up Area,1630.0,3,2,2,1,130.0,85.82503794682063
+Kadubeesanahalli,Super built-up Area,1185.0,2,2,3,1,55.0,70.59506554672566
+Thanisandra,Super built-up Area,1732.0,3,3,1,0,112.0,101.88153841924188
+Kanakpura Road,Super built-up Area,1550.0,3,3,3,1,64.5,79.47687531978373
+7th Phase JP Nagar,Super built-up Area,2225.0,3,3,1,0,160.0,153.7970889267269
+Electronic City,Super built-up Area,1800.0,3,3,2,1,95.0,82.47099537576692
+Electronic City,Super built-up Area,1170.0,2,2,1,1,33.0,50.76619805105355
+Whitefield,Super built-up Area,1800.0,3,2,2,0,70.0,91.83272322031308
+Mysore Road,Super built-up Area,1175.0,2,2,1,0,73.5,58.42213882806738
+Marathahalli,Super built-up Area,1325.0,2,2,2,1,71.55,72.61033379322815
+Shivaji Nagar,Plot Area,3820.0,1,1,1,1,306.0,398.3099949470844
+Other,Carpet Area,910.0,2,2,1,1,30.5,50.20202491562576
+Other,Built-up Area,900.0,2,2,1,1,45.0,45.84304534501519
+Akshaya Nagar,Super built-up Area,1690.0,3,3,2,1,85.0,87.30927749482106
+Other,Plot Area,812.0,1,1,0,0,26.0,49.714869648383626
+Kothanur,Super built-up Area,1580.0,3,3,3,1,76.0,81.13612147217164
+Jigani,Built-up Area,943.0,2,2,2,1,48.0,48.90522057555114
+Kanakpura Road,Super built-up Area,1100.0,3,2,1,0,53.0,51.73731717844203
+7th Phase JP Nagar,Super built-up Area,1175.0,2,2,2,1,82.5,74.74760007201587
+Electronic City,Super built-up Area,660.0,2,1,1,1,16.0,25.448657263235045
+Lakshminarayana Pura,Super built-up Area,1200.0,2,2,2,1,80.0,77.62765780385486
+Other,Built-up Area,1350.0,2,2,1,1,67.5,72.84798728381952
+Bannerghatta Road,Built-up Area,1181.0,2,2,0,1,55.0,61.534484602454626
+Ananth Nagar,Super built-up Area,937.0,2,2,1,1,35.0,28.214824170719616
+Amruthahalli,Built-up Area,485.0,1,1,1,1,19.5,20.958242563008444
+Hoodi,Super built-up Area,1447.0,2,3,2,0,76.0,82.40217029526995
+Kanakpura Road,Super built-up Area,1252.0,2,2,1,0,56.32,62.0709610907311
+Laggere,Plot Area,1200.0,2,2,0,1,75.0,99.18203431404578
+Vidyaranyapura,Super built-up Area,1200.0,2,2,2,1,60.5,56.13941831101794
+Other,Super built-up Area,1093.0,2,2,2,1,65.0,56.263711285099795
+Other,Super built-up Area,1600.0,4,4,1,1,80.0,88.16655701784212
+Other,Super built-up Area,1400.0,3,3,3,1,69.0,74.1403069916714
+7th Phase JP Nagar,Built-up Area,3300.0,3,4,3,1,160.0,252.4801975452868
+Other,Built-up Area,1100.0,2,2,2,1,57.0,57.125227212769566
+Balagere,Built-up Area,645.0,1,1,1,0,41.0,37.013826774366635
+Other,Super built-up Area,700.0,2,2,1,1,29.0,34.13250875073955
+HBR Layout,Plot Area,1200.0,4,4,0,1,120.0,98.67266632741763
+Marathahalli,Super built-up Area,1270.0,2,2,3,1,73.0,68.54440752867005
+Kasavanhalli,Built-up Area,1585.0,2,2,2,1,90.0,90.32778366255403
+Begur Road,Super built-up Area,1500.0,3,2,3,1,54.0,53.367471131779084
+Malleshwaram,Built-up Area,900.0,2,2,1,1,72.0,95.28020775494093
+Other,Plot Area,1530.0,2,2,1,1,185.0,103.79893687326678
+Horamavu Agara,Built-up Area,760.0,2,2,2,1,37.49,31.649037328774636
+Bannerghatta Road,Super built-up Area,630.0,1,1,2,1,35.0,29.170398915110503
+Other,Super built-up Area,1390.0,3,2,1,1,50.0,72.20953861371794
+Hoodi,Super built-up Area,1108.0,2,2,1,0,74.23,59.10416797086966
+Kanakpura Road,Built-up Area,1140.0,2,2,1,1,65.0,57.31068127194588
+Thanisandra,Super built-up Area,1265.0,2,2,2,1,82.0,71.71603187397723
+Kasavanhalli,Super built-up Area,1200.0,2,2,2,1,50.0,65.2149952428184
+Hennur Road,Super built-up Area,1804.0,3,3,2,0,102.0,107.49176266702229
+OMBR Layout,Super built-up Area,1300.0,2,2,2,1,80.0,81.71560309015135
+Jakkur,Super built-up Area,1660.0,3,3,2,0,104.0,100.7303892305783
+Thanisandra,Super built-up Area,1573.0,3,3,2,0,100.0,90.43403749582156
+Akshaya Nagar,Built-up Area,1434.0,3,3,3,1,84.0,72.27887506300402
+Kenchenahalli,Super built-up Area,700.0,1,1,1,1,35.0,36.106337625289115
+Padmanabhanagar,Built-up Area,4500.0,3,4,2,1,360.0,340.3814357473748
+Kanakpura Road,Super built-up Area,525.0,1,1,1,0,30.0,22.94701111984415
+Other,Built-up Area,1100.0,2,2,1,1,78.0,57.653099023527524
+Hormavu,Super built-up Area,980.0,2,2,2,1,42.0,42.433980127134106
+Hulimavu,Built-up Area,450.0,1,1,1,1,20.0,20.690442342619384
+ITPL,Plot Area,1200.0,3,3,1,0,68.4,62.645705595410575
+Whitefield,Super built-up Area,1158.0,2,2,1,0,55.0,57.94949441583404
+Other,Plot Area,1200.0,3,3,1,1,85.0,78.82955654092173
+Bisuvanahalli,Super built-up Area,1075.0,3,2,1,1,52.0,41.30367855826581
+Vittasandra,Super built-up Area,1246.0,2,2,1,1,65.0,64.02093908888806
+Dasarahalli,Super built-up Area,1295.0,2,2,1,1,65.0,66.94153112109228
+Bommasandra,Super built-up Area,842.0,2,2,2,1,30.0,30.569472415082174
+Malleshwaram,Super built-up Area,2215.0,3,4,1,1,310.0,274.95326937836774
+Bannerghatta Road,Super built-up Area,1550.0,3,3,2,1,78.0,81.95879515241637
+Other,Super built-up Area,1652.5,3,3,2,1,90.0,90.42906006777379
+Kammasandra,Super built-up Area,1156.0,2,2,2,1,32.0,37.254279399908384
+7th Phase JP Nagar,Super built-up Area,1420.0,3,2,2,1,96.0,89.67555615131421
+7th Phase JP Nagar,Super built-up Area,1650.0,3,3,2,1,110.0,110.41758948151158
+Hegde Nagar,Plot Area,1050.0,2,1,2,1,56.0,75.42081218931654
+Whitefield,Built-up Area,1173.0,2,2,1,0,60.0,59.27436571129947
+Babusapalaya,Super built-up Area,1061.0,2,2,1,1,33.84,38.80005969903822
+Yelahanka,Super built-up Area,1692.0,3,3,2,1,83.0,86.35390250977407
+Green Glen Layout,Super built-up Area,1728.0,3,3,2,1,125.0,111.7787589617358
+Hosa Road,Super built-up Area,1532.0,3,3,2,0,98.13,80.74250946783236
+Electronic City,Super built-up Area,1000.0,2,2,3,1,25.0,41.657999751462704
+EPIP Zone,Super built-up Area,3035.0,4,5,0,1,200.0,231.47957391490831
+Jalahalli,Super built-up Area,1932.0,3,4,3,1,135.0,129.7168201374766
+Basavangudi,Super built-up Area,1180.0,2,2,3,0,124.0,102.36700006693142
+Bannerghatta Road,Super built-up Area,1640.0,3,3,2,0,105.0,85.74143030051519
+Bhoganhalli,Super built-up Area,1760.0,3,3,2,1,128.0,104.7869220125079
+Other,Super built-up Area,1020.0,2,2,1,1,49.0,52.47254165729207
+Other,Plot Area,1200.0,4,4,1,1,110.0,79.01446078504021
+Other,Super built-up Area,1793.0,3,3,2,1,98.0,99.26331769950214
+Thubarahalli,Built-up Area,2625.0,3,3,3,1,175.0,181.108882811573
+Other,Super built-up Area,927.0,2,2,2,0,37.0,45.71991075376667
+Hennur Road,Super built-up Area,1891.0,3,3,1,1,110.0,116.71843322674243
+Raja Rajeshwari Nagar,Super built-up Area,1608.0,2,2,2,0,85.0,67.54793388691337
+Hormavu,Carpet Area,2282.0,4,4,0,0,115.0,121.91261419223407
+Bellandur,Super built-up Area,1170.0,2,2,1,1,46.79,62.790359426355444
+Whitefield,Super built-up Area,1564.0,3,3,1,0,103.0,81.877737126791
+Other,Built-up Area,1150.0,2,2,1,1,48.0,60.65608744389965
+Arekere,Super built-up Area,900.0,2,2,1,1,44.5,43.939828118183534
+Other,Super built-up Area,1355.0,3,2,3,1,58.25,68.85791988775428
+KR Puram,Super built-up Area,950.0,2,2,1,1,40.0,38.10952304805579
+Other,Built-up Area,1350.0,3,3,1,1,60.0,73.01886103492676
+Harlur,Super built-up Area,1710.0,3,3,2,1,85.0,112.05549369273
+Marathahalli,Super built-up Area,1220.0,2,2,1,1,59.0,66.6861728844222
+Gottigere,Super built-up Area,1200.0,2,2,2,1,50.0,47.794489756163955
+Kalyan nagar,Built-up Area,820.0,2,2,0,1,39.0,40.96452923834664
+Bhoganhalli,Super built-up Area,1205.0,2,2,2,0,64.47,66.51999551728929
+Other,Plot Area,1936.0,3,3,0,1,110.0,137.39192554759754
+Bannerghatta Road,Built-up Area,1600.0,3,3,2,1,95.0,85.66001074805999
+Vijayanagar,Super built-up Area,1200.0,3,2,1,1,75.0,73.73224648952635
+Sanjay nagar,Built-up Area,3300.0,5,3,2,1,250.0,245.11676382125606
+Other,Super built-up Area,1200.0,1,1,0,1,65.0,63.61098169019829
+Kogilu,Super built-up Area,1934.0,3,3,2,0,150.0,85.2439261104017
+Other,Super built-up Area,1738.0,3,3,2,1,110.0,95.79288579693494
+Vijayanagar,Super built-up Area,1826.0,3,3,2,0,121.0,120.06320229617297
+Kundalahalli,Super built-up Area,1010.0,2,2,1,1,49.27,66.63158351833498
+Malleshwaram,Built-up Area,2800.0,4,4,2,1,252.0,346.8059369921988
+Other,Built-up Area,1310.0,3,2,1,0,37.83,66.71395627211955
+Lingadheeranahalli,Super built-up Area,1682.0,3,3,1,1,114.0,109.49088303159803
+Begur Road,Super built-up Area,1584.0,3,3,2,1,65.0,59.45591271535516
+Banashankari Stage VI,Super built-up Area,1423.0,3,2,1,0,71.73,63.31568127475359
+Kothanur,Super built-up Area,1790.0,3,3,2,1,120.0,94.43119025672954
+Hosa Road,Super built-up Area,615.0,1,1,1,0,28.29,28.594602275059916
+Poorna Pragna Layout,Super built-up Area,1270.0,3,2,1,1,50.79,54.461829515201174
+Other,Plot Area,2200.0,4,4,3,1,235.0,155.02810623873322
+Other,Super built-up Area,1550.0,3,2,2,1,90.0,81.03051825333922
+Whitefield,Super built-up Area,1155.0,2,2,1,1,60.0,58.907036881944286
+Marathahalli,Super built-up Area,1350.0,2,2,1,1,89.0,74.86278639349159
+Bellandur,Built-up Area,1350.0,3,2,1,1,63.0,72.01778862343033
+Other,Plot Area,922.0,2,2,1,1,70.0,58.2020385025644
+Whitefield,Super built-up Area,1130.0,2,2,1,1,36.0,57.452846415847596
+Hosa Road,Super built-up Area,1040.0,2,2,1,0,61.0,52.23003118694457
+Other,Super built-up Area,720.0,1,1,0,0,32.39,34.81096989695448
+Raja Rajeshwari Nagar,Super built-up Area,1120.0,2,2,2,1,37.97,45.561924849971234
+Other,Plot Area,1200.0,2,2,1,1,34.0,78.6450849970856
+Hennur,Super built-up Area,1340.0,3,3,2,1,54.24,60.68861720273013
+Hoskote,Super built-up Area,1003.5,2,2,0,1,28.095,34.29310166393366
+Other,Built-up Area,1450.0,3,3,3,1,42.0,77.7848744021416
+Kodigehalli,Super built-up Area,635.0,2,1,1,1,28.0,48.42707794146479
+Chandapura,Super built-up Area,1305.0,3,3,1,0,33.28,38.97602749348886
+Hulimavu,Super built-up Area,3035.0,3,5,2,0,271.0,190.8275946175573
+Dasarahalli,Super built-up Area,1375.0,2,2,1,1,60.0,71.68566620573522
+Abbigere,Super built-up Area,765.0,1,2,2,1,30.0,27.322411916076273
+Panathur,Super built-up Area,1198.0,2,2,1,0,77.0,71.95700086270337
+Electronic City Phase II,Built-up Area,1125.0,2,2,1,0,32.49,39.48664994551763
+Electronics City Phase 1,Super built-up Area,1900.0,3,3,2,1,85.0,97.68362408760646
+Sarjapura - Attibele Road,Super built-up Area,1126.0,2,2,1,1,36.0,35.8450693342609
+Whitefield,Plot Area,1500.0,3,3,1,0,61.95,97.17520282677009
+Other,Plot Area,461.82,1,1,1,1,31.7,26.359927535188653
+Other,Super built-up Area,1800.0,3,3,0,1,230.0,101.5573101644248
+Sarjapur  Road,Built-up Area,1300.0,3,3,2,1,60.0,73.6210574480806
+Hebbal Kempapura,Super built-up Area,2900.0,3,4,2,1,300.0,259.2937281018563
+Electronic City,Super built-up Area,1020.0,2,2,2,0,29.46,42.18057372316986
+Other,Super built-up Area,2000.0,5,4,1,1,99.0,109.9324437347114
+Hennur Road,Super built-up Area,1450.0,3,3,2,0,79.0,83.75476557686585
+Sarjapur,Super built-up Area,940.0,2,2,1,1,25.38,34.453195453108016
+Banashankari,Super built-up Area,1290.0,2,2,2,1,80.0,67.56128353439902
+Hebbal Kempapura,Super built-up Area,2900.0,3,4,2,1,240.0,259.2937281018563
+Other,Plot Area,1200.0,4,4,2,1,135.0,78.29100433261864
+Ramamurthy Nagar,Built-up Area,3600.0,3,3,2,1,150.0,193.6418966586075
+Malleshwaram,Super built-up Area,1500.0,2,2,2,1,140.0,167.8753699014314
+Hormavu,Plot Area,1200.0,2,2,0,1,73.0,67.80920119317203
+Hulimavu,Super built-up Area,1115.0,2,2,2,1,44.6,57.475971500115755
+Other,Super built-up Area,1155.0,2,2,2,1,69.0,59.923792585153684
+Padmanabhanagar,Built-up Area,1176.0,2,2,0,1,62.0,71.9983801618219
+Other,Plot Area,1300.0,2,2,0,0,54.0,85.30405933309994
+Begur,Super built-up Area,1445.0,3,2,2,0,47.1,63.727659269151324
+Horamavu Banaswadi,Super built-up Area,1254.0,2,2,2,1,47.0,52.0824815248648
+Old Airport Road,Super built-up Area,2774.0,4,4,3,0,208.0,208.42692209655948
+HRBR Layout,Super built-up Area,2800.0,3,3,2,1,250.0,201.2222789409484
+Other,Plot Area,2400.0,5,5,1,1,150.0,174.81640430279927
+Other,Plot Area,1350.0,4,4,2,1,140.0,89.5657472004755
+Jakkur,Super built-up Area,1080.0,2,2,2,1,60.0,62.7051381391717
+BTM 2nd Stage,Built-up Area,1280.0,2,2,2,1,80.0,83.57971696922986
+Ramamurthy Nagar,Super built-up Area,1170.0,2,2,2,0,44.0,52.06944383000368
+Yelahanka New Town,Built-up Area,1290.0,2,2,2,1,70.0,57.14836078584315
+Akshaya Nagar,Super built-up Area,1314.0,2,2,2,1,68.8,65.34351176457393
+Chikkalasandra,Built-up Area,1425.0,3,1,0,1,54.0,63.156898839789164
+Uttarahalli,Super built-up Area,1025.0,2,2,1,1,35.88,41.258669673881755
+Sarjapur  Road,Super built-up Area,1155.0,2,2,1,0,58.0,63.019311191116095
+HBR Layout,Super built-up Area,1700.0,3,3,1,1,110.0,116.6424834943356
+Nagavara,Super built-up Area,2319.0,3,3,2,1,180.0,116.2255160276355
+Other,Plot Area,900.0,2,3,1,1,105.0,58.728736762590685
+Hennur Road,Super built-up Area,1482.0,3,2,1,0,68.9,83.54878337045747
+Iblur Village,Super built-up Area,5384.0,5,5,3,1,420.0,416.52478407478367
+Judicial Layout,Super built-up Area,1300.0,3,3,1,0,64.0,87.11143565753272
+Horamavu Agara,Super built-up Area,1107.83,2,2,1,1,41.51,48.73784398052404
+Ambedkar Nagar,Super built-up Area,1424.0,2,2,2,1,90.0,86.13719617472107
+Yelenahalli,Super built-up Area,1260.0,2,2,2,1,47.88,48.28344317328524
+Other,Super built-up Area,2456.0,3,3,3,1,220.0,140.8910235310947
+Budigere,Super built-up Area,1820.0,3,3,2,1,95.0,95.7554850356402
+Anekal,Plot Area,1800.0,3,3,2,1,68.0,86.34194189634553
+Other,Built-up Area,1007.0,2,2,2,1,48.0,51.64243581483637
+Sarjapur  Road,Super built-up Area,1457.0,3,3,3,1,85.0,82.4395682614511
+Other,Super built-up Area,1903.0,3,3,2,1,165.0,106.24933562703725
+1st Block Jayanagar,Built-up Area,1200.0,3,2,0,0,130.0,147.1009699253053
+Other,Plot Area,600.0,1,1,1,1,60.0,35.546429462505884
+Other,Super built-up Area,1801.0,3,3,2,1,139.0,99.76938190782674
+Electronic City,Super built-up Area,1005.0,2,2,1,0,39.77,41.85599745249586
+Kanakpura Road,Super built-up Area,1868.0,3,3,2,0,113.0,97.3658688805101
+Other,Plot Area,1200.0,3,3,2,0,72.0,76.61079790917802
+Akshaya Nagar,Built-up Area,1662.0,3,3,2,1,85.5,86.33860320703536
+Begur Road,Built-up Area,1200.0,2,2,2,1,44.73,43.53934876520293
+Frazer Town,Super built-up Area,1550.0,2,2,2,1,140.0,137.0210850144362
+Channasandra,Super built-up Area,1115.0,2,2,1,1,33.45,42.59313135232143
+Kudlu Gate,Super built-up Area,1185.0,2,2,1,1,50.0,58.433767464701525
+TC Palaya,Plot Area,1350.0,3,2,1,1,75.0,79.32102133540272
+Banashankari,Super built-up Area,1700.0,3,3,2,1,125.0,92.81692961386509
+Other,Super built-up Area,1115.0,2,2,1,1,50.0,58.091035636423705
+Nagavarapalya,Super built-up Area,1335.0,2,2,3,1,110.0,109.40270244646078
+Other,Super built-up Area,1600.0,3,3,2,1,76.0,87.15487169043753
+Kodihalli,Super built-up Area,3260.0,4,5,3,0,388.0,336.5456150615701
+Other,Super built-up Area,3600.0,6,4,1,1,160.0,207.893498450476
+Vijayanagar,Super built-up Area,1739.0,3,3,1,0,116.0,114.60065873635524
+7th Phase JP Nagar,Built-up Area,1415.0,3,3,1,1,65.0,94.24202608034464
+Other,Super built-up Area,1000.0,2,2,2,1,60.0,50.82924396654808
+Malleshwaram,Built-up Area,2006.0,3,3,2,1,297.0,236.39435224899225
+BTM Layout,Built-up Area,1300.0,3,2,1,1,75.0,67.3570828198875
+Other,Built-up Area,1100.0,2,2,2,1,44.0,57.125227212769566
+Harlur,Super built-up Area,1197.0,2,2,1,1,79.9,75.07065691683881
+Hoskote,Super built-up Area,1395.0,3,2,2,1,63.0,47.39707576803437
+Yelahanka,Super built-up Area,1390.0,2,2,2,0,65.31,67.50354273316839
+Kaggadasapura,Built-up Area,1045.0,2,2,2,1,55.0,43.1635126990966
+Kasavanhalli,Super built-up Area,1555.0,3,3,3,1,82.0,87.08271811456257
+Other,Super built-up Area,1190.0,2,2,1,1,48.6,62.57538605203559
+Uttarahalli,Super built-up Area,1065.0,2,2,1,0,42.6,42.27678541234186
+Other,Super built-up Area,1108.0,2,2,1,1,48.0,57.67463878261931
+Kundalahalli,Super built-up Area,1800.0,3,3,3,1,80.0,126.87107645371756
+Yelahanka New Town,Plot Area,1740.0,3,3,2,1,150.0,99.57596446728373
+Hormavu,Super built-up Area,1500.0,2,2,1,1,78.0,69.64256999891126
+Talaghattapura,Super built-up Area,1175.0,2,2,2,1,62.0,69.89170187817507
+Hennur Road,Super built-up Area,1445.0,3,3,1,1,86.56,85.84105374461586
+Rajaji Nagar,Super built-up Area,1640.0,3,3,2,1,262.0,211.5514602257353
+Haralur Road,Built-up Area,3385.0,4,5,2,0,260.0,209.74492650478845
+Other,Plot Area,2750.0,6,6,3,1,200.0,200.97545529727273
+Hennur Road,Super built-up Area,1186.0,3,2,1,1,56.0,66.04109535360452
+Raja Rajeshwari Nagar,Super built-up Area,1580.0,3,3,3,1,53.56,67.03859260737619
+Electronic City,Super built-up Area,1221.0,2,2,2,1,68.0,52.81362722066558
+Other,Built-up Area,1500.0,3,3,2,1,75.0,81.6033210386704
+Bommasandra,Super built-up Area,1295.0,3,2,1,0,50.28,47.81445338499351
+Thyagaraja Nagar,Super built-up Area,1270.0,3,2,2,1,95.25,103.38770946389937
+Other,Super built-up Area,1280.0,3,2,1,0,100.0,64.46015369885797
+Attibele,Plot Area,1700.0,3,3,1,1,65.0,72.0528523460281
+Other,Built-up Area,1700.0,3,3,2,1,80.0,94.14539111357666
+Hormavu,Built-up Area,1000.0,2,2,2,1,50.0,43.76919559871057
+Jakkur,Super built-up Area,1760.0,3,3,2,1,110.0,109.79532059716733
+Electronics City Phase 1,Built-up Area,865.0,2,2,0,1,40.0,40.72575575197119
+Sarjapur  Road,Super built-up Area,1550.0,3,3,3,1,100.0,88.4771258825101
+Sahakara Nagar,Super built-up Area,960.0,2,2,3,1,56.0,51.64566720013411
+Devanahalli,Built-up Area,2125.0,3,3,1,0,107.0,109.97834404536749
+Old Madras Road,Super built-up Area,5020.0,5,7,0,0,287.0,348.1212587239877
+Nagavarapalya,Super built-up Area,1260.0,2,2,2,1,85.5,103.35690497120564
+Kengeri,Super built-up Area,1540.0,3,2,3,1,64.0,66.30467156529058
+Whitefield,Super built-up Area,1227.0,2,2,2,1,70.0,62.54195700137024
+Marathahalli,Super built-up Area,1100.0,2,2,1,1,50.0,59.24764428021219
+Other,Built-up Area,955.0,2,1,2,1,34.01,46.861002065256926
+Marathahalli,Super built-up Area,1350.0,2,2,1,1,90.0,74.86278639349159
+Choodasandra,Built-up Area,1065.0,2,2,1,1,46.0,54.300881994585446
+Bellandur,Built-up Area,1465.0,2,3,3,1,90.0,83.32476005859827
+Kalyan nagar,Super built-up Area,2285.0,3,4,1,1,165.0,134.98480475980315
+Haralur Road,Super built-up Area,1309.0,2,2,1,1,82.0,69.4075600719922
+Kodigehalli,Super built-up Area,1200.0,2,2,2,1,48.0,102.97200611045632
+Babusapalaya,Super built-up Area,1167.0,3,2,2,0,39.98,40.62533036223293
+Sarjapur  Road,Super built-up Area,1194.0,2,2,1,0,57.0,65.45576284082452
+Uttarahalli,Super built-up Area,1045.0,2,2,1,1,45.0,42.17952182514281
+Other,Super built-up Area,1160.0,2,2,2,1,57.0,60.22020088474082
+Kadugodi,Super built-up Area,1430.0,3,2,0,1,55.0,70.43861118213047
+Iblur Village,Super built-up Area,1918.0,3,3,2,1,129.0,128.69741522306057
+Hegde Nagar,Super built-up Area,1168.0,3,2,1,1,68.0,69.21828498010866
+Akshaya Nagar,Super built-up Area,1225.0,2,2,0,1,68.0,61.43263281065816
+Yelachenahalli,Super built-up Area,1080.0,2,2,2,1,55.0,59.932706120220836
+Malleshwaram,Super built-up Area,2476.0,3,3,3,1,337.0,295.55339922111006
+Electronic City Phase II,Built-up Area,1070.0,2,2,2,1,45.0,37.669870679705426
+Other,Super built-up Area,1440.0,3,3,2,1,72.0,77.27235924885086
+Other,Built-up Area,1636.0,3,3,2,1,97.0,90.10780120269231
+Electronic City,Super built-up Area,1128.0,2,2,1,0,63.0,47.756740660427845
+Kanakpura Road,Super built-up Area,525.0,1,1,1,0,25.0,22.94701111984415
+Lingadheeranahalli,Super built-up Area,2240.0,4,4,2,1,160.0,150.8427787983768
+Haralur Road,Super built-up Area,1315.0,2,2,1,1,85.0,69.77108087897476
+Yelahanka,Super built-up Area,1300.0,2,2,2,1,69.23,63.756350501105175
+Chikkalasandra,Super built-up Area,1270.0,3,2,3,1,55.25,55.433310553693275
+Hormavu,Super built-up Area,1081.5,2,2,0,1,38.665,48.37187819649642
+Choodasandra,Super built-up Area,1580.0,3,3,3,1,105.0,83.1920983851845
+Hoodi,Built-up Area,1490.0,3,3,0,1,85.0,86.18200301403728
+Dommasandra,Super built-up Area,1033.0,3,2,2,0,25.53,29.519377848965156
+Basaveshwara Nagar,Built-up Area,1200.0,2,2,2,1,80.0,91.89043012986798
+Bannerghatta Road,Super built-up Area,1247.0,2,2,1,0,47.39,63.1340149037202
+Other,Built-up Area,595.0,1,1,1,1,42.0,28.507591330588607
+TC Palaya,Plot Area,1200.0,3,3,0,1,66.0,72.5848537757204
+Ambalipura,Super built-up Area,1332.0,2,2,1,1,79.0,78.4163393805405
+Lakshminarayana Pura,Super built-up Area,1210.0,2,2,2,1,75.0,78.36702723811635
+Yelahanka,Super built-up Area,602.0,1,1,1,1,38.0,26.643154563095024
+Marathahalli,Super built-up Area,1693.0,3,3,1,1,125.0,97.18411887582805
+Other,Plot Area,2400.0,3,4,1,1,130.0,180.48464935108035
+Other,Built-up Area,1750.0,3,3,2,1,100.0,97.31488423933398
+7th Phase JP Nagar,Super built-up Area,1800.0,3,3,2,1,130.0,121.95597233761406
+Jalahalli,Super built-up Area,1045.0,2,2,1,0,58.0,61.77444739838618
+Ambedkar Nagar,Super built-up Area,1425.0,2,2,1,1,94.0,87.00289375033476
+Other,Super built-up Area,1150.0,2,2,2,0,49.0,58.48475919286752
+Kodigehaali,Built-up Area,1320.0,3,3,0,1,65.0,67.60256330241916
+Marathahalli,Super built-up Area,1102.0,2,2,2,1,53.67,58.82711088093845
+Ambalipura,Super built-up Area,1230.0,2,2,2,1,66.25,70.93984796235407
+Thanisandra,Super built-up Area,1573.0,3,3,2,0,95.0,90.43403749582156
+Whitefield,Super built-up Area,1277.0,2,2,1,0,77.0,64.80015312165524
+Other,Super built-up Area,1672.0,3,3,2,1,150.0,91.64898704740737
+Marathahalli,Super built-up Area,1449.0,3,3,2,1,110.0,80.61132464561204
+Kanakpura Road,Super built-up Area,1500.0,2,2,2,1,69.0,77.08174714837193
+Other,Plot Area,2400.0,3,4,2,1,325.0,178.83213178861405
+Other,Built-up Area,2000.0,3,3,1,0,145.0,112.20499140369309
+Bisuvanahalli,Built-up Area,1075.0,3,2,1,1,37.0,41.631429302020216
+Other,Built-up Area,1350.0,3,2,3,1,68.0,69.11185348109335
+Other,Built-up Area,560.0,1,1,1,1,21.0,26.6002499485784
+Rayasandra,Super built-up Area,1357.0,3,2,2,1,59.0,59.0884867486039
+Other,Super built-up Area,509.0,1,1,1,0,20.0,23.21017695735792
+Whitefield,Super built-up Area,1160.0,2,2,2,0,39.0,57.53220079530139
+Bhoganhalli,Super built-up Area,1703.0,3,3,2,1,120.0,100.91944590396204
+Other,Super built-up Area,1175.0,2,2,2,1,48.27,61.110514066464496
+JP Nagar,Super built-up Area,1250.0,2,2,2,1,93.0,68.11062336145439
+Raja Rajeshwari Nagar,Plot Area,4800.0,8,8,2,1,225.0,303.22577378554325
+Other,Super built-up Area,1705.0,3,2,1,0,86.96,89.43770625790717
+Neeladri Nagar,Super built-up Area,1100.0,2,2,2,1,30.0,42.971189089004
+Other,Plot Area,1500.0,3,3,2,1,138.0,100.78408371854064
+Banashankari,Super built-up Area,1310.0,2,2,2,0,80.0,67.44126340237978
+Whitefield,Plot Area,1200.0,3,3,2,0,67.75,74.62135908994671
+Hulimavu,Super built-up Area,1231.0,2,2,1,1,84.5,64.95005485463396
+Varthur,Super built-up Area,965.0,2,2,1,1,34.0,42.240374599438475
+Bellandur,Super built-up Area,1420.0,3,3,2,1,62.0,77.8007265353701
+Rachenahalli,Super built-up Area,3657.0,4,5,2,1,220.0,225.70632704938865
+Other,Super built-up Area,1560.0,3,3,1,1,188.0,85.45287242345728
+Other,Super built-up Area,1155.0,2,2,1,1,64.0,60.47752484045994
+Gubbalala,Super built-up Area,2000.0,3,3,3,1,125.0,105.36234446813958
+Kumaraswami Layout,Super built-up Area,1081.0,2,2,3,1,60.0,55.84346054561632
+Jakkur,Super built-up Area,1100.0,2,2,1,0,53.35,63.38640896112098
+Other,Plot Area,1500.0,2,2,0,1,203.0,102.41507497482664
+Budigere,Super built-up Area,1636.0,3,3,2,1,85.0,84.77934901555687
+Sonnenahalli,Super built-up Area,1484.0,3,3,1,0,74.18,70.92560607797175
+1st Phase JP Nagar,Super built-up Area,1077.0,2,2,2,0,93.0,73.95188184244165
+Marathahalli,Super built-up Area,2519.0,4,5,2,1,185.0,157.62837812996455
+Kasavanhalli,Super built-up Area,770.0,1,1,1,1,43.82,39.556669482999936
+Other,Super built-up Area,1100.0,3,2,2,1,45.0,54.767102790540555
+Mahadevpura,Super built-up Area,1400.0,3,2,2,1,65.8,64.69334268840872
+Kammasandra,Super built-up Area,930.0,2,2,0,1,25.0,29.597129527105754
+1st Block Jayanagar,Super built-up Area,2850.0,4,4,1,0,428.0,403.83950373879605
+Thigalarapalya,Super built-up Area,3122.0,4,6,2,1,237.0,252.36482010067138
+Rajaji Nagar,Super built-up Area,2448.0,3,3,2,1,400.0,334.29839303599425
+Nagarbhavi,Built-up Area,710.0,1,2,2,1,40.0,36.705501474889026
+Ambedkar Nagar,Super built-up Area,1850.0,3,4,3,1,139.0,119.6573013924341
+Other,Super built-up Area,1740.0,3,3,3,1,120.0,95.040579987665
+Nagarbhavi,Super built-up Area,1523.0,3,2,2,1,53.4,81.30996589273764
+Kodigehaali,Super built-up Area,1013.0,2,2,1,1,51.0,49.000178130249
+Anekal,Super built-up Area,1140.0,2,2,2,0,52.0,40.28036796074599
+Other,Carpet Area,1625.0,3,3,3,1,92.0,95.804749651279
+Varthur Road,Built-up Area,1277.0,2,2,2,1,59.0,47.692491547622026
+JP Nagar,Super built-up Area,1250.0,2,2,2,1,60.0,68.11062336145439
+Whitefield,Super built-up Area,1910.0,3,3,2,1,161.0,103.92519185084133
+Other,Super built-up Area,950.0,2,2,2,0,50.0,47.0179369100022
+Other,Super built-up Area,1552.0,2,2,1,1,51.0,84.75368905527505
+7th Phase JP Nagar,Super built-up Area,1650.0,3,3,3,1,110.0,109.4066059630827
+Kothanur,Built-up Area,1170.0,3,3,2,1,80.0,58.5609259011105
+Whitefield,Super built-up Area,1338.0,2,2,1,0,103.0,68.34778098316647
+Bellandur,Super built-up Area,1767.0,3,3,2,1,89.0,99.87121176922443
+Other,Super built-up Area,865.0,2,2,1,0,35.11,42.63431154097032
+Jakkur,Super built-up Area,1230.0,2,2,1,1,79.0,73.42008976305989
+Yeshwanthpur,Super built-up Area,1381.0,3,2,2,1,76.18,79.28448590098517
+Hoodi,Built-up Area,3385.0,4,4,1,0,220.0,214.34293189538397
+Hebbal Kempapura,Plot Area,2280.0,5,5,2,1,200.0,237.53374206230512
+Kanakpura Road,Super built-up Area,1100.0,3,3,1,0,52.97,53.665723179946696
+Kengeri,Built-up Area,1230.0,3,2,2,1,52.0,52.17564975754071
+Other,Plot Area,1900.0,3,2,2,1,92.0,127.28205508655232
+Other,Built-up Area,1410.0,2,2,3,1,67.0,75.16234518597477
+Bellandur,Super built-up Area,1096.0,2,2,2,1,40.0,57.74121739290187
+Hulimavu,Super built-up Area,688.0,1,1,2,1,50.0,33.033143770895066
+Other,Plot Area,1650.0,3,4,2,1,160.0,116.564615181476
+Battarahalli,Super built-up Area,2024.0,3,3,2,0,103.0,93.76723527179647
+Seegehalli,Plot Area,3000.0,3,4,2,1,235.0,193.7620891066624
+Kalena Agrahara,Super built-up Area,800.0,2,2,2,1,30.0,38.339162220627536
+Other,Super built-up Area,3060.0,4,4,2,0,350.0,179.70915416581454
+Jalahalli,Super built-up Area,2113.0,3,3,2,1,155.0,139.80528719664
+Hormavu,Built-up Area,1180.0,2,2,2,1,50.0,52.87828511719791
+Abbigere,Super built-up Area,795.0,2,2,1,1,32.54,27.843293867800327
+Electronic City,Super built-up Area,1355.0,2,2,1,0,97.6,58.88355390565354
+Other,Super built-up Area,2045.0,3,4,3,1,154.0,118.55660455102955
+Banashankari Stage III,Super built-up Area,1085.0,2,2,1,1,50.0,59.58613472842855
+Other,Super built-up Area,1035.0,2,2,2,0,52.79,51.853157893291105
+Vidyaranyapura,Plot Area,1200.0,4,4,0,1,90.0,71.51695960011843
+Kogilu,Super built-up Area,1140.0,2,2,1,1,50.66,47.84479312697199
+Electronic City,Super built-up Area,1609.0,3,3,3,1,115.0,71.8884426453477
+Rajaji Nagar,Super built-up Area,3526.0,4,4,2,1,492.0,508.35679861206654
+Hormavu,Super built-up Area,1129.0,2,2,1,1,44.0,50.34096094602856
+Akshaya Nagar,Super built-up Area,1113.0,2,2,1,1,52.0,54.555577077845705
+Sarjapur  Road,Super built-up Area,1210.0,2,2,2,1,58.0,67.13686801822891
+Electronic City,Super built-up Area,919.0,2,2,2,1,35.0,38.17591622187466
+Gubbalala,Super built-up Area,1475.0,2,2,2,1,80.0,74.92226901077755
+Other,Super built-up Area,3500.0,4,5,2,0,450.0,217.32564815661252
+Koramangala,Built-up Area,2300.0,3,3,3,1,290.0,220.96364510810233
+Other,Super built-up Area,1655.0,3,3,2,1,86.06,90.58534703588462
+Hebbal,Super built-up Area,2388.0,3,3,1,1,195.0,179.8544701857923
+Electronic City Phase II,Super built-up Area,1502.0,3,3,3,1,50.0,54.67957836586667
+7th Phase JP Nagar,Super built-up Area,1575.0,3,2,2,1,110.0,100.9409575569788
+Other,Super built-up Area,1155.0,2,2,3,1,56.0,59.37513030272366
+Indira Nagar,Super built-up Area,1650.0,3,3,1,1,150.0,179.10391687519413
+Chikka Tirupathi,Plot Area,3297.0,3,3,1,0,135.0,150.1572287884397
+Kammanahalli,Super built-up Area,1200.0,2,2,2,1,80.0,78.40651100115214
+Seegehalli,Super built-up Area,1150.0,3,2,2,1,42.9,48.38348795792419
+Yelahanka,Super built-up Area,1036.0,2,2,2,1,39.37,49.19423109224698
+Old Airport Road,Super built-up Area,1206.0,2,2,3,1,75.0,81.67626913565381
+Kanakpura Road,Super built-up Area,1938.0,3,3,3,0,92.69,100.6148287296231
+TC Palaya,Plot Area,1350.0,1,1,0,1,55.0,82.64966559328322
+Haralur Road,Super built-up Area,2475.0,3,4,2,1,130.0,148.01838554732868
+Hebbal,Super built-up Area,1040.0,2,2,1,1,50.0,69.42924779126972
+Kengeri,Super built-up Area,1200.0,2,2,0,1,58.0,53.04576581728323
+Other,Built-up Area,1298.0,2,2,1,0,65.0,68.3167303087749
+Hennur Road,Super built-up Area,1804.0,3,3,2,0,102.0,107.49176266702229
+Marathahalli,Built-up Area,3951.0,4,4,2,1,220.0,256.13205051285706
+Panathur,Super built-up Area,1695.0,3,3,1,1,90.0,109.30751610890809
+Begur,Super built-up Area,815.0,2,2,1,1,40.0,35.278323010465904
+Hebbal Kempapura,Plot Area,1200.0,2,2,1,1,125.0,114.35499246529878
+Vidyaranyapura,Super built-up Area,1000.0,2,2,1,1,35.0,46.006173441462266
+Jigani,Super built-up Area,939.0,2,2,2,1,39.0,48.28518326226379
+Tumkur Road,Super built-up Area,1586.0,3,3,1,0,100.0,103.58911795207881
+Electronic City,Super built-up Area,1110.0,2,2,1,1,40.0,47.80342467833575
+Other,Super built-up Area,1465.0,3,2,2,1,88.0,75.97482785187573
+BTM Layout,Super built-up Area,1600.0,3,3,2,1,112.0,87.06734001725816
+Other,Super built-up Area,1202.0,2,2,1,1,48.0,63.296689231048745
+Koramangala,Built-up Area,1710.0,3,3,2,1,210.0,158.9530659270702
+Seegehalli,Super built-up Area,1525.0,3,3,2,1,65.0,69.27887232690522
+Hosakerehalli,Super built-up Area,2480.0,3,4,1,1,260.0,222.68766466977095
+Hennur Road,Super built-up Area,1036.0,2,2,1,0,59.46,57.438835815485746
+KR Puram,Super built-up Area,3628.0,4,4,1,1,246.0,176.93201090903236
+Raja Rajeshwari Nagar,Super built-up Area,1133.0,2,2,2,1,38.41,46.1665053651112
+Whitefield,Super built-up Area,1187.0,2,2,1,1,37.85,60.774934541294385
+Banashankari,Super built-up Area,1020.0,2,2,1,1,42.83,52.142616978261465
+Mahadevpura,Super built-up Area,1720.0,3,3,3,1,78.0,84.11579118417053
+Ramamurthy Nagar,Built-up Area,1525.0,3,3,1,1,100.0,73.26377999210064
+Other,Super built-up Area,1250.0,2,2,2,1,90.0,65.58601360763976
+Other,Super built-up Area,4250.0,6,6,3,1,150.0,265.44829499455005
+Bhoganhalli,Super built-up Area,1277.0,2,2,1,0,79.89,71.7359043565376
+Other,Built-up Area,3309.0,4,4,3,1,325.0,200.08822491252556
+Hebbal,Super built-up Area,1349.0,2,2,1,1,97.8,93.4533237466028
+Bannerghatta Road,Built-up Area,500.0,1,1,1,1,18.5,22.788682653704765
+Kadugodi,Plot Area,1875.0,3,2,1,1,110.0,118.39639161964473
+Dasanapura,Super built-up Area,814.0,2,2,1,1,43.7,40.800001366125514
+Uttarahalli,Super built-up Area,1215.0,3,2,2,1,52.85,47.9738370679335
+5th Block Hbr Layout,Super built-up Area,1312.0,2,2,3,1,69.0,56.875991081247705
+Other,Super built-up Area,1495.0,3,2,2,1,52.33,77.75454655545522
+KR Puram,Super built-up Area,1827.0,3,3,2,1,97.0,79.88745427863758
+Whitefield,Built-up Area,1435.0,3,3,2,1,45.0,75.56217056893101
+Raja Rajeshwari Nagar,Super built-up Area,1270.0,2,2,2,1,62.0,52.59612788963583
+Electronic City,Super built-up Area,1200.0,2,2,2,0,30.0,50.784977035336425
+Other,Built-up Area,1200.0,3,2,0,1,70.0,62.1021449332585
+Whitefield,Super built-up Area,1155.0,2,2,2,1,55.0,58.36768401536953
+Babusapalaya,Super built-up Area,1675.0,3,3,3,1,75.0,64.3238931998446
+Thanisandra,Super built-up Area,1935.0,3,4,2,1,122.0,121.16559165280573
+Other,Carpet Area,2100.0,4,3,0,1,210.0,127.5574349118322
+Nagarbhavi,Plot Area,1350.0,3,3,2,1,150.0,91.48232702481218
+Other,Plot Area,1400.0,2,2,2,1,160.0,92.92836718484266
+Domlur,Super built-up Area,650.0,1,1,1,1,70.0,48.00801394345695
+Chikka Tirupathi,Plot Area,2600.0,4,5,3,1,120.0,119.13831468216706
+Bommasandra,Super built-up Area,1015.0,2,2,1,0,40.0,37.46089559113731
+Hebbal,Super built-up Area,1251.0,2,2,1,0,88.73,84.09606322860542
+Other,Super built-up Area,1280.0,3,2,3,1,55.0,64.52177188008258
+Horamavu Agara,Super built-up Area,1079.0,2,2,2,0,41.0,45.960663188100874
+Kanakpura Road,Super built-up Area,1283.0,2,2,2,0,63.22,63.24516643064936
+Hebbal,Built-up Area,1590.0,3,3,2,1,96.0,112.87334649663634
+Rajaji Nagar,Super built-up Area,1725.0,3,3,3,1,200.0,222.06941830254408
+Magadi Road,Super built-up Area,1187.0,3,2,0,0,55.195,54.86311890915394
+Other,Super built-up Area,1850.0,3,3,3,1,95.0,101.93402867495635
+Sarjapur  Road,Built-up Area,1450.0,3,2,1,1,75.0,81.14757222630509
+5th Phase JP Nagar,Super built-up Area,1485.0,3,2,2,1,67.0,71.89373111301894
+Other,Built-up Area,3100.0,5,6,1,1,165.0,196.67772892778913
+Other,Built-up Area,1600.0,5,4,0,1,125.0,86.66736709011876
+Koramangala,Super built-up Area,1320.0,2,2,1,1,160.0,118.13996631362548
+Hulimavu,Plot Area,1500.0,2,2,0,1,90.0,102.26706811018568
+Marathahalli,Super built-up Area,950.0,2,2,1,0,46.96,49.15178619923753
+HSR Layout,Built-up Area,4200.0,5,5,2,1,245.0,248.0474015066297
+Sarjapur  Road,Super built-up Area,1787.0,3,3,2,0,98.29,103.03993654013264
+Other,Built-up Area,950.0,2,2,3,1,57.0,47.8746732861971
+Ramagondanahalli,Super built-up Area,1151.0,2,2,2,0,42.5,52.60278033094568
+Electronic City Phase II,Super built-up Area,2187.5,4,4,0,0,105.0,84.90444761863279
+Whitefield,Built-up Area,1820.0,3,3,2,0,113.0,97.23100233629435
+Haralur Road,Super built-up Area,2017.0,3,3,2,1,125.0,112.95609543308642
+Seegehalli,Super built-up Area,1176.0,2,2,2,1,50.0,51.36456626882652
+Harlur,Super built-up Area,2240.0,3,5,2,1,155.0,164.11673780801038
+Hennur,Super built-up Area,1255.0,2,2,2,1,54.5,56.17970591195121
+Ramamurthy Nagar,Plot Area,1200.0,2,3,1,1,72.0,71.21173120298792
+Other,Super built-up Area,1057.0,2,2,1,1,42.0,54.65231313072083
+Other,Super built-up Area,1290.0,3,3,2,0,45.33,66.84213057384673
+Thanisandra,Super built-up Area,777.0,1,1,0,0,38.46,40.96374706996018
+Bommanahalli,Super built-up Area,1375.0,3,3,2,1,59.0,61.47131660153472
+Sahakara Nagar,Super built-up Area,1100.0,3,2,2,1,75.0,58.841779487731685
+Bannerghatta,Super built-up Area,1200.0,2,2,2,1,73.2,81.07013170704433
+Other,Built-up Area,1069.0,2,2,2,1,55.0,55.290008629894444
+Other,Super built-up Area,2770.0,3,4,2,1,290.0,169.221848758964
+Rajaji Nagar,Super built-up Area,2386.0,3,3,2,1,334.0,324.64466268162596
+Thanisandra,Super built-up Area,1917.0,3,4,2,0,113.0,117.5813949350829
+Whitefield,Super built-up Area,2700.0,3,5,2,0,175.0,162.86239022734534
+Whitefield,Super built-up Area,1125.0,2,2,2,1,40.0,56.63917360594786
+Singasandra,Built-up Area,3850.0,4,6,3,1,195.0,217.66196766818192
+Uttarahalli,Super built-up Area,1065.0,2,2,1,1,42.59,43.102884930737225
+Sarjapur  Road,Super built-up Area,1700.0,3,3,1,1,95.0,100.14867689499903
+Yelahanka,Built-up Area,1315.0,2,2,3,1,75.0,64.51379330986839
+Kudlu Gate,Super built-up Area,1532.0,3,3,2,1,83.0,77.82088234850788
+Kudlu Gate,Super built-up Area,1465.0,3,2,2,1,49.81,71.2883964806475
+Thanisandra,Super built-up Area,933.0,1,1,1,0,61.0,50.02309960261689
+Other,Super built-up Area,1180.0,3,2,2,0,78.34,58.20261285772347
+Thanisandra,Super built-up Area,1948.0,3,3,2,0,130.0,115.45255594570895
+JP Nagar,Super built-up Area,1107.0,2,2,1,1,57.0,59.832971728610445
+Kodichikkanahalli,Super built-up Area,1070.0,2,2,3,1,43.0,46.49386319836191
+Judicial Layout,Super built-up Area,1165.0,2,2,1,1,49.61,78.17538102568737
+JP Nagar,Super built-up Area,1500.0,3,2,3,1,82.0,80.31396499321792
+Other,Super built-up Area,1110.0,2,2,2,1,51.0,57.26441325263785
+Thanisandra,Built-up Area,1917.0,4,4,2,0,130.0,114.5237640028939
+Babusapalaya,Super built-up Area,1410.0,3,2,3,1,65.0,50.93803833273609
+Haralur Road,Super built-up Area,1027.0,2,2,2,1,44.0,52.125685758276184
+Hebbal,Super built-up Area,2526.0,3,2,2,0,250.0,179.67985004823538
+Devanahalli,Built-up Area,1010.0,2,2,1,1,58.0,47.829664228786385
+Ambalipura,Built-up Area,2550.0,4,4,2,1,149.0,165.21184424145048
+Other,Plot Area,1200.0,2,2,1,1,76.0,78.6450849970856
+Ramamurthy Nagar,Super built-up Area,1000.0,2,2,1,1,62.0,44.78115005823002
+Mallasandra,Super built-up Area,905.0,2,2,1,1,40.0,44.78094052667822
+Other,Plot Area,800.0,2,3,1,1,59.5,51.33582790346885
+ISRO Layout,Super built-up Area,1000.0,2,2,1,1,60.0,47.673156764384714
+Bellandur,Super built-up Area,950.0,2,2,2,1,35.0,49.04172741168881
+1st Phase JP Nagar,Super built-up Area,2077.0,3,3,3,0,175.0,155.51479360935355
+Kanakpura Road,Super built-up Area,1450.0,3,3,3,1,62.4,73.64722174355663
+Whitefield,Built-up Area,1610.0,3,3,2,0,81.0,84.52475307223251
+Electronic City Phase II,Built-up Area,1310.0,3,2,1,0,37.84,45.404648959161776
+Amruthahalli,Super built-up Area,1250.0,2,2,2,1,79.0,60.89912044649479
+Shampura,Built-up Area,1475.0,3,3,3,1,78.0,73.63228259552929
+Haralur Road,Super built-up Area,1194.0,2,2,2,1,46.0,61.914884578380736
+Whitefield,Plot Area,4000.0,4,4,2,1,330.0,301.6857045116976
+Channasandra,Super built-up Area,1009.0,2,2,1,0,38.34,37.27170030814342
+Other,Super built-up Area,1975.0,3,3,3,1,90.0,109.83845714956672
+CV Raman Nagar,Built-up Area,1310.0,2,2,1,1,62.0,70.89117325933519
+HRBR Layout,Super built-up Area,1170.0,2,2,2,1,75.0,74.09165667307931
+Malleshwaram,Super built-up Area,2475.0,3,4,3,1,320.0,306.4281386543352
+Choodasandra,Super built-up Area,1220.0,3,3,2,1,56.0,62.488887778753885
+Brookefield,Super built-up Area,1130.0,2,2,2,1,56.0,64.54217677883226
+Kammasandra,Super built-up Area,1595.0,3,3,2,1,65.0,53.936968759487414
+Hebbal Kempapura,Super built-up Area,1800.0,3,3,2,1,175.0,144.97906693222168
+Yeshwanthpur,Super built-up Area,2500.0,3,3,3,1,138.0,160.51032339185528
+Other,Plot Area,2000.0,4,3,2,1,25.0,135.27899736771425
+Whitefield,Super built-up Area,1340.0,2,2,1,1,77.0,69.80230677542833
+Sahakara Nagar,Super built-up Area,1100.0,2,2,1,1,56.0,61.45484089369481
+Haralur Road,Super built-up Area,1520.0,3,2,2,0,85.0,77.31611870973825
+Dommasandra,Super built-up Area,1200.0,2,2,2,1,50.0,36.959601238330535
+Sonnenahalli,Super built-up Area,1011.0,2,2,1,0,50.53,45.644509245718815
+Electronics City Phase 1,Built-up Area,1015.0,2,2,1,1,56.0,48.44011270032486
+Other,Super built-up Area,1150.0,3,2,2,1,77.5,57.61976775188474
+Varthur,Plot Area,1200.0,3,3,1,0,68.38,66.30986010926699
+Other,Super built-up Area,1176.0,2,2,2,1,44.0,61.16992602227952
+Dodda Nekkundi,Super built-up Area,1128.0,2,2,2,1,45.0,51.43929665201547
+Thigalarapalya,Super built-up Area,2215.0,3,4,2,1,157.0,164.00312967159857
+Other,Super built-up Area,3400.0,4,6,2,1,420.0,222.34544660044435
+Whitefield,Built-up Area,1410.0,3,3,2,0,43.71,72.64091794625735
+Hebbal,Super built-up Area,1088.0,2,2,2,0,61.45,71.0439034327041
+Marathahalli,Built-up Area,1156.0,2,2,2,1,52.0,62.624204726928475
+Bannerghatta Road,Super built-up Area,1218.0,2,2,1,1,73.0,62.66062532925381
+Haralur Road,Super built-up Area,1027.0,2,2,1,1,44.0,52.607358768096105
+Kaikondrahalli,Super built-up Area,1115.0,2,2,2,1,50.0,65.47536775428487
+Kasavanhalli,Super built-up Area,1819.0,3,3,1,1,150.0,106.09935876991356
+Kasavanhalli,Super built-up Area,1787.0,3,3,2,0,123.0,101.04361190451424
+Other,Super built-up Area,1350.0,3,3,0,1,77.0,73.11343386487219
+Other,Plot Area,2400.0,4,5,2,0,140.0,175.81611104695065
+Chandapura,Super built-up Area,700.0,2,1,1,1,19.0,18.762581022122333
+Other,Built-up Area,925.0,2,2,2,1,63.0,46.867403304429295
+Other,Super built-up Area,650.0,2,1,1,1,20.0,30.235104184053835
+Whitefield,Super built-up Area,1100.0,2,2,1,1,46.5,55.71385847557845
+Chamrajpet,Super built-up Area,1650.0,3,3,2,1,115.0,157.65328606363173
+Talaghattapura,Built-up Area,1800.0,3,3,1,0,84.0,113.77696893771183
+Rajaji Nagar,Plot Area,1200.0,2,1,1,1,200.0,178.91769487005652
+Electronic City Phase II,Built-up Area,1020.0,2,2,1,0,29.45,35.30562753374174
+Bannerghatta,Super built-up Area,1776.0,3,3,2,0,150.0,124.72662407612523
+Akshaya Nagar,Super built-up Area,1360.0,3,2,2,0,85.0,64.41575405151433
+Other,Super built-up Area,823.0,2,2,1,1,28.0,41.0650140210422
+Sarjapur  Road,Super built-up Area,2275.0,3,4,2,1,180.0,143.57475271609025
+Green Glen Layout,Super built-up Area,1750.0,3,3,2,1,130.0,113.40580351481037
+Other,Built-up Area,5720.0,3,3,0,1,350.0,383.4470232310491
+Electronic City Phase II,Super built-up Area,1252.0,2,2,1,1,67.0,45.13180209427144
+Other,Super built-up Area,1100.0,2,2,2,0,38.0,55.58926985246337
+Murugeshpalya,Super built-up Area,1845.0,3,3,3,1,91.0,94.22267651915564
+Whitefield,Super built-up Area,1836.0,3,3,2,1,125.0,99.33874304973128
+BTM Layout,Super built-up Area,1776.0,3,2,3,1,75.0,93.6997956941941
+Akshaya Nagar,Built-up Area,1280.0,2,2,1,1,60.0,64.50963124147913
+Domlur,Super built-up Area,1429.0,3,3,3,1,86.0,116.45337402406199
+Other,Plot Area,1200.0,4,4,3,1,110.0,77.57417184792855
+Other,Super built-up Area,1600.0,3,3,2,1,52.0,87.15487169043753
+7th Phase JP Nagar,Super built-up Area,1430.0,3,2,1,1,102.0,91.23260788147986
+Abbigere,Super built-up Area,734.0,1,1,0,0,19.82,25.1009212507931
+Raja Rajeshwari Nagar,Super built-up Area,1145.0,2,2,2,1,45.79,46.72545661430922
+Iblur Village,Super built-up Area,1920.0,3,3,2,1,130.0,128.8507190212085
+Binny Pete,Super built-up Area,1516.0,3,3,1,0,147.0,121.79699410793125
+Akshaya Nagar,Super built-up Area,1300.0,2,2,1,1,54.0,65.14533532307433
+Poorna Pragna Layout,Super built-up Area,1270.0,3,2,3,1,50.79,53.46909008793354
+Kudlu Gate,Super built-up Area,940.0,2,2,1,0,69.57,43.99038963169077
+JP Nagar,Super built-up Area,1405.0,2,2,1,0,99.0,77.05381055239168
+9th Phase JP Nagar,Super built-up Area,1571.0,3,3,2,1,65.0,75.90450591135021
+Electronic City,Built-up Area,1090.0,2,2,1,0,31.48,46.28788001937061
+Other,Super built-up Area,1432.0,3,3,2,0,79.0,75.3105975306433
+Choodasandra,Super built-up Area,725.0,2,2,2,1,36.0,34.4038399808078
+5th Phase JP Nagar,Super built-up Area,1390.0,2,2,2,1,65.0,68.98744998706103
+Electronic City Phase II,Built-up Area,1025.0,2,2,1,0,29.6,35.50338571714642
+Other,Built-up Area,820.0,2,2,2,1,30.0,40.841174666592984
+Frazer Town,Super built-up Area,3100.0,3,3,2,1,400.0,303.1537918237249
+Kengeri,Built-up Area,3000.0,8,5,2,1,130.0,135.85490081567764
+Other,Super built-up Area,1495.0,3,3,2,1,55.0,80.65269323949497
+Koramangala,Super built-up Area,1300.0,2,2,3,1,110.0,113.98126849896825
+Old Airport Road,Built-up Area,1875.0,3,2,2,1,110.0,132.91333372762242
+Brookefield,Super built-up Area,1260.0,2,2,1,1,70.0,73.76642964045115
+Padmanabhanagar,Super built-up Area,1258.0,2,2,2,1,115.0,75.74235318193645
+Sarjapur  Road,Super built-up Area,1691.0,3,3,3,1,120.0,97.72878243086218
+9th Phase JP Nagar,Super built-up Area,1240.0,3,2,2,0,39.89,54.776782255769504
+Yeshwanthpur,Super built-up Area,1166.0,2,2,1,1,64.08,68.25069768066328
+JP Nagar,Built-up Area,1590.0,3,2,3,1,85.0,86.52265449946881
+Munnekollal,Built-up Area,1170.0,2,2,2,1,59.0,54.90760026203709
+Mysore Road,Super built-up Area,883.0,2,2,1,1,45.0,42.97857154903659
+Kaval Byrasandra,Built-up Area,1020.0,2,2,1,1,52.0,48.610055892736206
+Other,Super built-up Area,1310.0,3,2,1,1,55.0,67.48208431268863
+Hoskote,Super built-up Area,1695.0,3,3,3,1,50.0,60.8528565690513
+Other,Built-up Area,1080.0,2,2,2,1,38.0,55.94035988560087
+Other,Built-up Area,936.0,1,1,0,0,53.0,47.34814866326337
+Haralur Road,Super built-up Area,1810.0,3,3,2,0,112.0,97.90103884502767
+Other,Built-up Area,1068.0,2,2,1,0,40.05,54.672975875738864
+Sahakara Nagar,Super built-up Area,2200.0,3,3,2,1,98.0,134.72152329721402
+Cox Town,Built-up Area,1073.0,2,2,2,1,72.0,78.48439111571464
+Yelahanka,Built-up Area,845.0,2,2,2,1,43.0,39.28730361328935
+Anekal,Built-up Area,620.0,2,1,1,1,23.5,20.085658887770123
+Chikkabanavar,Built-up Area,2400.0,5,4,0,1,97.0,102.53126477734047
+Sarjapur  Road,Super built-up Area,1025.0,2,2,2,1,45.5,55.54529083345563
+Bellandur,Super built-up Area,1000.0,2,2,2,1,50.0,52.0009716723344
+Vijayanagar,Super built-up Area,1178.0,2,2,3,1,82.0,73.34396279192812
+Hennur Road,Super built-up Area,1585.0,3,2,3,1,80.0,90.30000761982691
+Banashankari,Super built-up Area,1420.0,3,3,1,0,66.0,74.80608079285845
+Jakkur,Built-up Area,1300.0,2,2,2,1,80.0,78.11078296207477
+Begur,Built-up Area,3500.0,3,4,2,1,185.0,193.5584742020246
+Kanakpura Road,Built-up Area,2000.0,3,3,3,1,105.0,107.18177084968744
+Haralur Road,Super built-up Area,1255.0,3,2,1,1,90.0,63.91933932293762
+CV Raman Nagar,Super built-up Area,1070.0,2,2,2,1,47.5,55.30614860135838
+Domlur,Super built-up Area,1540.0,3,3,2,1,90.0,128.01400468159372
+Dasanapura,Super built-up Area,708.0,2,1,1,1,40.0,33.539418714958636
+Akshaya Nagar,Super built-up Area,1100.0,2,2,2,1,48.0,53.335456800505604
+NGR Layout,Super built-up Area,1022.0,2,2,1,1,45.9,45.90689477164818
+Kundalahalli,Built-up Area,1260.0,2,2,0,1,58.0,87.26130621595863
+Horamavu Agara,Super built-up Area,1000.0,2,2,1,1,46.0,43.35766806187628
+Uttarahalli,Super built-up Area,1123.0,2,2,1,1,48.0,45.79446930358099
+Amruthahalli,Super built-up Area,1350.0,3,2,3,1,63.0,63.667784331493934
+Ananth Nagar,Super built-up Area,1100.0,2,2,2,1,31.5,33.577271640633725
+Other,Super built-up Area,3730.0,4,6,2,1,450.0,247.16202297698283
+Hoodi,Built-up Area,1400.0,3,3,2,1,74.0,78.79874340153161
+Frazer Town,Super built-up Area,1180.0,2,2,1,1,105.0,101.26989626279577
+Mahadevpura,Super built-up Area,1505.0,3,3,2,1,64.0,72.88357703524153
+Other,Built-up Area,1945.0,3,3,3,1,120.0,108.79120001773184
+Dasarahalli,Super built-up Area,1520.0,3,2,1,1,75.0,77.67697002066491
+Sarjapur,Super built-up Area,950.0,2,2,2,1,32.5,34.55289095097429
+Raja Rajeshwari Nagar,Super built-up Area,1530.0,3,3,3,1,51.87,64.62079723545862
+Other,Super built-up Area,1360.0,3,3,3,1,55.0,71.72559730786081
+Other,Super built-up Area,2357.0,3,3,2,1,135.0,135.66475514718232
+Yelahanka,Super built-up Area,1104.0,2,2,2,1,58.0,52.89949487083908
+Other,Super built-up Area,850.0,2,2,1,1,32.5,42.60745447115172
+Frazer Town,Super built-up Area,3436.0,4,5,2,1,345.0,354.5058317162925
+Whitefield,Built-up Area,905.0,1,1,1,0,52.0,43.9716878431908
+Abbigere,Super built-up Area,795.0,2,1,1,1,32.6,26.84278233427854
+Kothanur,Super built-up Area,1200.0,2,2,1,1,51.0,60.21605269273351
+Other,Plot Area,600.0,1,1,0,1,33.0,35.8749000700094
+Other,Super built-up Area,2180.0,4,4,3,1,115.0,123.24328632354062
+Vittasandra,Super built-up Area,1404.0,2,2,1,1,69.3,73.37494197920918
+Other,Super built-up Area,1500.0,3,3,3,1,67.49,80.21960664264958
+Sultan Palaya,Super built-up Area,1009.0,2,2,1,1,65.0,53.87165068843983
+Kasavanhalli,Super built-up Area,1069.0,2,2,2,1,55.0,57.148044328532556
+Other,Super built-up Area,1075.0,2,2,2,1,58.0,55.20655615356985
+Other,Plot Area,1800.0,4,4,2,1,145.0,124.41019232332091
+Gottigere,Super built-up Area,1621.0,3,3,3,1,72.0,66.92422352489542
+Kothanur,Super built-up Area,1070.0,2,2,1,1,45.5,52.82384795706175
+Kundalahalli,Super built-up Area,1397.0,3,3,3,1,105.0,94.9786057298113
+Electronics City Phase 1,Super built-up Area,1125.0,2,2,2,1,65.0,53.55770390256381
+Hebbal,Super built-up Area,3520.0,3,5,2,1,240.0,298.6723545771905
+Sompura,Super built-up Area,2150.0,4,3,2,1,85.0,84.73131929278361
+Yeshwanthpur,Super built-up Area,1163.0,2,2,2,1,64.08,67.42708182478952
+Whitefield,Super built-up Area,1115.0,2,2,1,1,51.91,56.58252032920212
+Other,Super built-up Area,1053.0,2,2,1,1,46.29,54.4161315684115
+Whitefield,Built-up Area,1634.0,3,3,2,1,68.0,87.64532032302907
+Other,Built-up Area,1200.0,4,2,2,1,35.0,58.91713006108397
+Electronic City,Super built-up Area,1691.0,3,2,2,0,102.0,72.61313646348901
+Other,Super built-up Area,1380.0,2,2,1,0,80.0,72.69155091437104
+Hoodi,Super built-up Area,711.0,1,1,0,0,42.65,35.85201898079008
+Hennur Road,Super built-up Area,1482.0,3,2,1,0,92.0,83.54878337045747
+Sarjapur  Road,Super built-up Area,1346.0,2,2,1,0,69.61,75.05723398453306
+Hormavu,Super built-up Area,1210.0,2,2,3,1,69.0,53.49394929723236
+Vijayanagar,Super built-up Area,1180.0,2,2,2,0,65.0,72.74384240463726
+Other,Super built-up Area,1505.0,2,2,2,1,90.0,81.07904137413338
+Yelahanka,Super built-up Area,1519.0,2,2,3,0,65.0,74.02158929558927
+Hennur Road,Super built-up Area,1182.0,2,2,2,1,82.5,67.45578178100502
+Other,Super built-up Area,800.0,2,1,1,1,29.0,38.32813613219452
+Attibele,Built-up Area,1200.0,2,2,2,1,42.0,38.74057221684095
+Kanakpura Road,Super built-up Area,1300.0,3,3,1,0,64.0,64.94856717426427
+Other,Super built-up Area,1308.0,2,2,2,1,92.66,69.0734899547467
+Whitefield,Super built-up Area,1626.0,3,3,3,1,85.0,85.67747558727856
+Hennur Road,Super built-up Area,1445.0,3,2,1,1,89.56,82.75647026361922
+Other,Plot Area,3664.0,3,3,2,0,325.0,274.17885216940647
+Kothanur,Super built-up Area,1460.0,3,3,3,1,71.0,74.13605702536215
+Kundalahalli,Super built-up Area,1724.0,3,3,2,1,124.0,121.88677852734808
+Other,Super built-up Area,1235.0,2,2,2,0,52.76,63.44798854713618
+Ardendale,Super built-up Area,2422.0,4,4,2,1,160.0,140.19555138816338
+Rachenahalli,Super built-up Area,985.0,2,2,1,0,50.17,47.914456295326424
+Panathur,Super built-up Area,1210.0,2,2,1,0,77.0,72.78090263828564
+Brookefield,Built-up Area,1230.0,2,2,3,1,55.0,71.01458433924806
+Hebbal,Super built-up Area,1760.0,3,2,2,1,123.0,121.24327987107986
+Other,Super built-up Area,1022.0,2,2,2,1,57.0,52.108568518177265
+Sector 2 HSR Layout,Super built-up Area,1512.0,3,3,2,1,80.0,96.68487030507559
+Sarjapura - Attibele Road,Super built-up Area,1073.0,2,2,2,1,31.77,33.61375696147275
+Kumaraswami Layout,Built-up Area,1310.0,3,2,1,1,85.0,68.99797216809422
+Other,Super built-up Area,1000.0,2,2,1,1,50.0,51.29893706644847
+Other,Plot Area,2700.0,4,3,2,1,90.0,190.59301367788407
+Yelahanka,Super built-up Area,1664.0,3,3,0,1,73.95,86.29652649423724
+Other,Super built-up Area,1374.0,3,2,2,1,88.0,70.60841024239244
+Sarjapur  Road,Super built-up Area,4395.0,4,4,2,1,242.0,294.35168797023294
+Thanisandra,Super built-up Area,663.0,1,1,1,0,46.0,33.86053919448808
+Other,Super built-up Area,1060.0,2,2,1,1,55.0,54.829532796329694
+Kanakapura,Super built-up Area,1283.0,2,2,2,0,68.0,62.6258150734322
+Indira Nagar,Built-up Area,1210.0,2,2,1,1,102.0,126.37401385582349
+Raja Rajeshwari Nagar,Super built-up Area,1295.0,2,2,2,1,55.47,53.7804337818257
+Hormavu,Super built-up Area,1206.0,2,2,1,1,55.0,54.281449479979884
+Other,Built-up Area,1700.0,3,3,2,1,74.0,94.14539111357666
+Kanakpura Road,Built-up Area,1737.0,3,3,3,1,85.0,91.23876903007692
+Marathahalli,Super built-up Area,4000.0,4,4,3,1,220.0,255.35899376668263
+Yelahanka,Super built-up Area,1756.0,3,3,2,1,66.73,90.09488509801749
+Margondanahalli,Plot Area,1090.0,2,2,0,1,58.0,60.98762705033387
+Other,Built-up Area,1650.0,2,1,1,1,130.0,88.32297165980519
+Other,Plot Area,1200.0,2,2,0,1,79.0,79.37181336999868
+Balagere,Super built-up Area,1205.0,2,2,1,0,73.87,75.16102789150968
+Kanakpura Road,Super built-up Area,700.0,2,2,1,0,35.0,31.9490266415223
+Ramamurthy Nagar,Built-up Area,1200.0,2,2,1,1,68.0,55.5871418762592
+Nagavara,Super built-up Area,1077.0,2,2,1,1,50.0,48.730965314733034
+Jigani,Built-up Area,1231.0,3,3,2,1,58.0,66.46400907382878
+Kaggadasapura,Super built-up Area,1150.0,2,2,3,1,42.0,47.33549371651073
+Other,Built-up Area,1884.0,3,3,2,1,95.0,105.87195123716509
+Other,Super built-up Area,1050.0,2,2,2,1,45.0,53.742466074778605
+Banashankari,Super built-up Area,1650.0,3,3,2,0,90.75,87.98594184469935
+Yelahanka,Super built-up Area,1120.0,2,2,2,1,55.0,53.77612742534407
+Channasandra,Plot Area,1200.0,2,2,1,0,46.13,56.55847034819374
+Gubbalala,Super built-up Area,1100.0,2,2,2,1,49.5,53.59030648121781
+Babusapalaya,Super built-up Area,1141.0,2,2,1,1,45.9,42.159379982417136
+Hoodi,Super built-up Area,1181.0,2,2,2,1,55.0,64.22147621265067
+Other,Plot Area,1350.0,2,2,1,1,80.0,89.97081927168678
+Raja Rajeshwari Nagar,Super built-up Area,1140.0,2,2,1,1,49.27,46.92207703392364
+Koramangala,Super built-up Area,1594.0,3,3,2,0,125.0,142.75250677951664
+Electronic City Phase II,Super built-up Area,920.0,2,2,2,1,26.0,31.450903723124107
+ITPL,Plot Area,1500.0,3,3,1,0,61.52,80.83303584733254
+6th Phase JP Nagar,Super built-up Area,2003.0,3,3,3,1,200.0,136.23478744687344
+Varthur,Super built-up Area,1090.0,2,2,2,1,48.0,48.1014642322264
+Electronics City Phase 1,Super built-up Area,1160.0,2,2,1,0,52.0,54.90485458684549
+Other,Super built-up Area,1450.0,3,3,1,1,65.0,78.60533055008314
+Whitefield,Super built-up Area,840.0,1,1,1,0,57.0,40.065079881744595
+Other,Super built-up Area,1750.0,3,3,3,1,75.0,95.66475524268115
+Babusapalaya,Super built-up Area,1061.0,2,2,1,1,34.0,38.80005969903822
+Other,Super built-up Area,861.0,2,2,1,1,35.0,43.23787013069966
+Yelachenahalli,Super built-up Area,1400.0,2,2,3,1,78.0,79.87449099554635
+Marathahalli,Super built-up Area,1950.0,3,3,2,1,115.0,113.16458984441168
+Kasavanhalli,Super built-up Area,1060.0,2,2,2,1,58.06,56.598788258719615
+Banashankari Stage III,Super built-up Area,1350.0,3,2,2,1,68.0,73.22866568437625
+Padmanabhanagar,Super built-up Area,1531.0,3,2,0,1,75.0,93.30012159183295
+Vijayanagar,Super built-up Area,1046.0,2,2,1,0,75.0,63.972401005320044
+Other,Super built-up Area,1378.0,3,2,3,0,42.33,68.8492853272055
+Doddathoguru,Super built-up Area,940.0,2,2,1,1,32.9,34.04447213163241
+Varthur,Super built-up Area,1360.0,3,2,3,1,85.0,59.30270479205442
+Singasandra,Super built-up Area,1300.0,2,2,2,1,65.0,58.334095750261994
+Lakshminarayana Pura,Super built-up Area,1200.0,2,2,3,1,83.0,76.91689892039749
+Koramangala,Super built-up Area,2200.0,3,3,2,1,180.0,210.29609891823588
+Other,Super built-up Area,1410.0,3,2,2,0,45.12,71.33168514266309
+Rayasandra,Built-up Area,1199.0,3,2,1,1,48.5,52.18201881615821
+Sarjapur  Road,Built-up Area,2497.0,3,3,2,1,140.0,155.17001251564963
+Basavangudi,Built-up Area,1500.0,3,2,1,0,143.0,133.58008460783654
+Kanakpura Road,Super built-up Area,525.0,1,1,1,0,26.0,22.94701111984415
+Green Glen Layout,Super built-up Area,3250.0,4,4,3,1,230.0,228.4296670395184
+Uttarahalli,Super built-up Area,3600.0,6,6,2,1,120.0,173.29643877304375
+Kereguddadahalli,Built-up Area,1240.0,3,3,2,1,41.0,41.37174254075536
+Other,Super built-up Area,1900.0,3,3,2,1,205.0,106.0580292464252
+Harlur,Super built-up Area,1756.0,3,3,2,1,134.0,115.50524937024296
+Varthur,Super built-up Area,1035.0,2,2,1,1,60.0,45.75807206355086
+Singasandra,Super built-up Area,1306.0,3,2,2,1,58.0,56.66713155594435
+Other,Super built-up Area,1188.0,2,2,3,1,73.0,61.31682395712593
+Channasandra,Super built-up Area,1093.0,2,2,1,1,37.0,41.634518149757454
+Sarjapur  Road,Super built-up Area,1691.0,3,3,2,1,119.0,98.63185576399403
+Other,Super built-up Area,2400.0,4,4,1,1,88.0,140.10317543601627
+Balagere,Super built-up Area,1210.0,2,2,1,1,80.9,76.99300434306716
+Marathahalli,Super built-up Area,1730.0,3,3,2,1,115.0,98.70190652925697
+Margondanahalli,Plot Area,1152.0,2,1,0,1,66.0,62.6315064348937
+Sarjapur,Super built-up Area,1044.0,2,2,2,1,36.0,38.48496920659681
+Kanakpura Road,Super built-up Area,900.0,2,2,1,0,46.29,42.57261153970854
+Whitefield,Built-up Area,2850.0,4,5,0,1,240.0,175.22393125757162
+Uttarahalli,Super built-up Area,1200.0,2,2,2,1,44.0,48.94602712806743
+Rachenahalli,Super built-up Area,1100.0,2,2,1,1,68.0,55.41792447441234
+Other,Super built-up Area,3155.0,3,4,2,1,370.0,196.34379461225464
+Ramagondanahalli,Super built-up Area,1251.0,2,2,1,0,53.0,58.38927487493758
+Other,Super built-up Area,1950.0,3,2,2,1,89.5,105.3262089442183
+1st Phase JP Nagar,Super built-up Area,2065.0,3,4,1,1,210.0,166.41181012575112
+Neeladri Nagar,Super built-up Area,2111.0,3,3,2,1,103.0,90.69157802145384
+Electronic City Phase II,Built-up Area,1160.0,2,2,1,0,33.5,40.89297909517825
+Channasandra,Super built-up Area,1000.0,2,2,2,0,35.0,36.55440499313652
+Other,Built-up Area,1080.0,2,2,1,1,55.0,56.457282802288425
+7th Phase JP Nagar,Super built-up Area,1680.0,3,3,2,1,120.0,112.71375673601612
+Indira Nagar,Built-up Area,500.0,1,1,0,1,70.0,46.36747977850009
+Thubarahalli,Super built-up Area,1540.0,3,3,2,1,90.0,98.61475452496859
+Sultan Palaya,Built-up Area,900.0,2,2,2,1,45.0,47.21564103146903
+Electronic City,Built-up Area,1130.0,2,2,1,0,32.63,48.23319914616452
+Other,Built-up Area,2000.0,4,2,1,0,160.0,104.53061639814
+Other,Plot Area,2160.0,6,5,1,1,250.0,149.77492247219377
+Lingadheeranahalli,Super built-up Area,1893.0,3,3,1,1,130.0,125.31545416482213
+Thanisandra,Super built-up Area,1265.0,2,2,1,0,72.0,70.99153823654673
+Electronic City Phase II,Built-up Area,1160.0,2,2,1,0,33.51,40.89297909517825
+Akshaya Nagar,Built-up Area,1666.0,3,3,2,1,95.0,86.5760016027853
+Raja Rajeshwari Nagar,Super built-up Area,1095.0,2,2,2,1,38.33,44.40208255066736
+Tumkur Road,Super built-up Area,992.0,2,2,1,1,60.0,61.64753316385866
+Tumkur Road,Super built-up Area,1459.0,3,2,1,1,95.0,92.55939084605356
+Yelahanka,Super built-up Area,1033.0,2,2,1,0,52.58,48.53621390486154
+Other,Built-up Area,2400.0,4,5,3,1,180.0,143.80838745827415
+Whitefield,Built-up Area,2928.0,4,4,3,0,198.0,166.22882332346794
+Magadi Road,Super built-up Area,1116.0,2,2,1,0,50.0,52.4280695333638
+Sarjapur,Plot Area,2400.0,4,3,3,1,140.0,118.98675235650038
+Mysore Road,Super built-up Area,1568.0,3,2,2,1,100.0,79.29532066232915
+Bellandur,Super built-up Area,2500.0,3,4,2,1,112.0,153.9847553678881
+Green Glen Layout,Super built-up Area,1623.29,3,2,2,1,105.0,100.33587284822684
+Binny Pete,Super built-up Area,665.0,1,1,1,0,46.08,47.29422352838533
+Thubarahalli,Super built-up Area,1200.0,2,2,2,1,79.55,73.98969940773351
+Haralur Road,Super built-up Area,1240.0,2,2,1,0,70.0,63.993886948539775
+Hennur,Super built-up Area,1295.0,2,2,1,1,62.0,58.76771751156328
+Electronic City,Super built-up Area,1025.0,2,2,1,0,54.1,42.80879807495316
+Horamavu Banaswadi,Super built-up Area,1460.0,2,2,1,0,80.5,61.33878066486849
+Koramangala,Built-up Area,1370.0,2,2,2,1,125.0,123.10581398835276
+Benson Town,Super built-up Area,1750.0,3,3,3,1,150.0,212.4380322105667
+Electronic City Phase II,Super built-up Area,1031.0,2,2,1,1,56.35,36.15238835574575
+Thanisandra,Super built-up Area,1183.0,2,2,2,0,58.56,65.15761128977853
+Sarjapur,Super built-up Area,649.5,1,1,0,1,17.535,22.741361424720726
+Sarjapur  Road,Super built-up Area,1929.0,3,3,1,0,103.0,113.48344029496289
+Pai Layout,Super built-up Area,1400.0,3,2,3,1,67.0,60.57523061646294
+Whitefield,Super built-up Area,1350.0,2,2,1,0,88.0,69.04842162464834
+Indira Nagar,Super built-up Area,1260.0,2,2,2,1,100.0,130.11205165140908
+Hosa Road,Super built-up Area,1161.0,2,2,1,0,55.15,59.22698201108577
+HSR Layout,Super built-up Area,1372.0,2,2,1,1,61.0,68.7099935102352
+Domlur,Super built-up Area,780.0,1,1,1,1,70.0,59.123515891744184
+Sarakki Nagar,Super built-up Area,3131.0,4,4,3,1,349.0,360.94154127521546
+Seegehalli,Super built-up Area,920.0,2,2,1,0,27.0,38.41187506717535
+Bommasandra,Super built-up Area,920.0,2,2,1,0,37.2,33.48328275596919
+Sompura,Super built-up Area,1350.0,3,2,2,1,47.0,49.678441329718765
+Raja Rajeshwari Nagar,Super built-up Area,1640.0,3,3,1,1,86.8,71.2531392941321
+Jalahalli,Super built-up Area,1694.0,2,2,2,1,125.0,108.35872444644383
+Other,Super built-up Area,1410.0,3,2,2,0,45.12,71.33168514266309
+Electronic City,Super built-up Area,1070.0,2,2,1,0,47.0,44.962218104147624
+Uttarahalli,Super built-up Area,1390.0,3,2,2,1,61.16,55.94446664188053
+Other,Built-up Area,1600.0,2,2,1,1,90.0,88.45074113225358
+Other,Plot Area,1500.0,4,4,0,1,110.0,102.89609230755198
+Yeshwanthpur,Super built-up Area,1240.0,2,2,2,1,80.0,72.55000801316991
+Other,Super built-up Area,1525.0,3,3,2,0,68.63,80.92277339381252
+Other,Built-up Area,7500.0,4,4,2,1,425.0,514.2083518567649
+Kengeri Satellite Town,Super built-up Area,635.0,2,1,1,1,22.0,23.273287466704964
+Electronic City Phase II,Super built-up Area,1116.0,2,2,2,0,40.0,38.46257579974904
+Other,Super built-up Area,966.0,2,2,1,0,49.0,48.36640171463446
+Other,Plot Area,1800.0,5,4,1,1,68.0,121.33192661696368
+Electronic City,Super built-up Area,1128.0,2,2,1,0,65.45,47.756740660427845
+Other,Super built-up Area,1320.0,3,2,2,0,73.0,66.15488184040066
+Horamavu Agara,Super built-up Area,1060.0,2,2,1,1,37.0,46.341714252123516
+Other,Super built-up Area,925.0,2,2,2,1,35.0,46.49843143513732
+Sarjapur  Road,Super built-up Area,1195.0,2,2,1,0,70.0,65.51838656953699
+Talaghattapura,Super built-up Area,1868.0,3,3,1,0,120.0,117.76529822463819
+Kaggadasapura,Built-up Area,2150.0,4,4,1,1,100.0,99.78048298593646
+Other,Super built-up Area,1220.0,2,2,2,1,60.0,63.791095134155995
+Other,Super built-up Area,2100.0,3,3,3,1,220.0,117.81442747313113
+Electronic City,Built-up Area,1025.0,2,2,1,0,29.6,43.148492162696556
+Other,Super built-up Area,1020.0,2,2,2,1,60.0,51.99210303302308
+Other,Super built-up Area,1051.0,2,2,1,1,33.0,54.298088614518925
+Kadugodi,Super built-up Area,1314.0,2,2,3,0,80.0,63.1436962222345
+Banashankari Stage II,Super built-up Area,1245.0,2,2,1,1,125.0,123.89529784113111
+Electronic City,Built-up Area,1090.0,1,2,1,0,31.48,47.90081190789343
+Pai Layout,Built-up Area,1000.0,2,2,2,1,34.0,43.419020005999364
+Old Airport Road,Super built-up Area,2732.0,4,4,3,0,194.0,204.82614617218613
+Whitefield,Built-up Area,1197.0,2,2,1,1,50.0,61.847034198388826
+Other,Built-up Area,1045.0,2,2,2,1,42.0,53.87437448192722
+Other,Plot Area,1020.0,2,2,1,0,62.0,64.06848091307731
+Kasavanhalli,Super built-up Area,1125.0,2,2,1,1,61.2,61.14004583344832
+Hennur Road,Super built-up Area,1482.0,3,2,2,0,83.73,82.78381065760472
+Other,Super built-up Area,1220.0,2,2,1,1,65.0,64.38056361492521
+Other,Super built-up Area,1000.0,2,2,1,1,36.0,51.29893706644847
+Rachenahalli,Super built-up Area,1550.0,3,3,3,1,72.5,80.68766921297212
+Prithvi Layout,Super built-up Area,1352.0,2,2,2,1,85.0,84.59710186784403
+Whitefield,Super built-up Area,982.0,2,2,1,0,37.0,48.0027732245749
+ISRO Layout,Built-up Area,1050.0,2,2,1,1,51.0,50.80546617370668
+Other,Built-up Area,1200.0,3,2,2,1,100.0,60.97013654606455
+Yelahanka,Super built-up Area,1282.0,3,2,2,1,48.7,60.636068569330426
+Sarjapur  Road,Super built-up Area,984.0,2,2,1,0,45.91,52.47911562035729
+Sarjapur,Super built-up Area,1200.0,2,2,2,1,62.0,45.12078031067629
+Domlur,Super built-up Area,1050.0,2,2,2,1,85.0,82.46017978802297
+Other,Plot Area,1892.0,3,3,2,1,200.0,131.3914430450122
+Balagere,Super built-up Area,1205.0,2,2,1,0,70.0,75.16102789150968
+Other,Super built-up Area,1550.0,3,3,3,0,110.0,81.68505392568932
+Other,Super built-up Area,1439.0,3,3,1,1,57.23,77.92454358296126
+Anandapura,Plot Area,1200.0,2,2,1,1,67.0,60.57062106428574
+Jakkur,Super built-up Area,2423.0,3,4,3,0,160.0,159.4673208434329
+Neeladri Nagar,Super built-up Area,1060.0,2,2,0,1,35.0,41.95573000974839
+Bommanahalli,Built-up Area,1090.0,2,3,2,1,44.0,49.175936509849066
+7th Phase JP Nagar,Super built-up Area,1180.0,2,2,2,1,72.0,75.11103793367275
+Other,Super built-up Area,1500.0,3,2,1,1,90.0,78.77290822255412
+Thanisandra,Super built-up Area,1262.0,3,2,1,1,83.0,69.75213523792853
+Shampura,Super built-up Area,1200.0,2,2,3,1,53.0,57.57822968392582
+Other,Super built-up Area,6729.0,3,4,2,1,900.0,466.4110727430482
+Doddathoguru,Super built-up Area,855.0,2,2,1,1,32.0,30.551230513425608
+Other,Super built-up Area,1060.0,2,2,1,1,42.5,54.829532796329694
+Sarjapur  Road,Super built-up Area,539.0,1,1,1,1,45.0,26.839615059411937
+Sarjapur  Road,Super built-up Area,1242.0,2,2,1,1,78.0,69.80794372072675
+Garudachar Palya,Super built-up Area,1150.0,2,2,1,1,52.75,53.15427037858406
+Whitefield,Super built-up Area,1216.0,2,2,1,0,66.48,61.27656192517244
+Kudlu,Super built-up Area,1152.0,2,2,1,1,53.5,51.73963547676881
+Bhoganhalli,Built-up Area,2439.0,4,5,2,1,170.0,159.4076608424644
+Other,Super built-up Area,650.0,1,1,1,1,26.0,31.28866644853564
+Other,Built-up Area,1300.0,3,3,1,1,58.0,69.93792493294482
+Dommasandra,Super built-up Area,999.0,2,2,2,1,32.9,29.97674226373116
+Sarjapur  Road,Super built-up Area,1428.0,3,2,2,1,66.0,78.39056135652021
+Nagavara,Super built-up Area,1247.0,2,2,1,1,58.56,57.61180443678852
+Dodda Nekkundi,Super built-up Area,1315.0,2,2,2,1,50.0,61.28996208923776
+Devanahalli,Super built-up Area,1010.0,2,2,1,1,51.0,47.45311679125351
+Other,Super built-up Area,1190.0,2,2,1,1,48.0,62.57538605203559
+Other,Super built-up Area,797.0,2,2,1,1,32.0,39.5864881702666
+Yelenahalli,Super built-up Area,1175.0,2,2,2,1,50.0,44.58102674299789
+Other,Super built-up Area,1050.0,2,2,2,1,38.0,53.742466074778605
+1st Phase JP Nagar,Super built-up Area,2180.0,3,3,2,1,210.0,169.1146994723569
+Other,Super built-up Area,975.0,2,2,1,1,60.0,49.836627784637905
+Other,Super built-up Area,1630.0,2,2,2,1,200.0,88.81566833387178
+Malleshwaram,Plot Area,600.0,2,1,0,1,90.0,72.05171978632285
+Marathahalli,Built-up Area,4000.0,4,4,3,1,220.0,257.38530481336954
+Other,Built-up Area,1470.0,3,2,3,1,60.0,76.17243323009015
+Thanisandra,Built-up Area,923.0,1,1,1,0,45.69,49.803219777681306
+Other,Super built-up Area,500.0,1,1,2,1,51.0,22.97407568898117
+Other,Super built-up Area,1128.0,2,2,2,1,48.4,58.326358746428554
+Haralur Road,Built-up Area,1140.0,2,2,2,1,58.0,59.192760061709826
+Hennur Road,Super built-up Area,1232.0,2,2,1,0,66.0,70.01041908559282
+Other,Super built-up Area,830.0,2,2,2,1,26.0,41.0845778459374
+Other,Super built-up Area,1707.0,3,3,2,1,171.0,93.84366766820278
+Shampura,Built-up Area,2650.0,4,4,2,1,150.0,145.45744822253124
+Electronic City,Built-up Area,1125.0,2,2,1,0,32.49,47.989490897552955
+Kothanur,Super built-up Area,1790.0,3,3,2,1,105.0,94.43119025672954
+Whitefield,Plot Area,3940.0,4,5,3,1,265.0,304.7582611469997
+Hosur Road,Super built-up Area,1250.0,2,2,2,1,65.0,68.14622072653896
+Marathahalli,Built-up Area,1250.0,2,2,2,1,68.0,68.47386522481585
+Mysore Road,Super built-up Area,1155.0,2,2,1,1,51.0,58.40703887681753
+TC Palaya,Built-up Area,1800.0,2,2,2,1,80.0,91.47429168854406
+Gottigere,Super built-up Area,1425.0,3,2,2,1,47.0,56.202305388655176
+Somasundara Palya,Super built-up Area,1650.0,3,3,2,1,95.0,87.41620034699524
+Balagere,Super built-up Area,645.0,1,1,1,0,39.0,36.722428918038275
+Other,Super built-up Area,1402.0,3,2,2,1,85.0,72.2543832618127
+Yelahanka,Super built-up Area,654.0,1,1,1,1,38.0,29.28775096879725
+Kothanur,Plot Area,9600.0,5,5,2,1,550.0,804.3796623678522
+Whitefield,Super built-up Area,1704.0,3,3,1,1,120.0,92.06620500213275
+Bellandur,Super built-up Area,924.0,2,2,2,1,35.11,47.51158470098634
+Horamavu Agara,Super built-up Area,1560.0,3,3,2,1,75.0,71.56315829863081
+Chandapura,Super built-up Area,1015.0,2,2,2,0,25.88,28.91430106809291
+Banaswadi,Plot Area,1903.0,5,6,2,1,140.0,141.60786069344357
+9th Phase JP Nagar,Super built-up Area,1100.0,2,2,1,0,65.0,49.89253294104885
+Other,Super built-up Area,1040.0,2,2,1,1,46.79,53.64942495469154
+Electronic City Phase II,Built-up Area,1900.0,4,3,1,1,97.0,70.954329562949
+Other,Super built-up Area,900.0,2,2,1,1,70.0,45.4821379137859
+Other,Built-up Area,1495.0,3,2,2,1,75.0,78.37154027982496
+Kudlu Gate,Super built-up Area,1535.0,3,3,2,1,83.0,77.99497826822763
+Other,Super built-up Area,1310.0,2,2,1,1,88.0,69.83354231090267
+Uttarahalli,Super built-up Area,1845.0,3,2,1,0,68.27,76.52896937616931
+Other,Super built-up Area,1145.0,2,2,2,1,44.0,59.33152416910164
+Kaikondrahalli,Super built-up Area,1300.0,2,2,2,1,61.0,78.02458786890843
+Yeshwanthpur,Super built-up Area,1144.0,2,2,2,1,67.0,66.1702697174501
+Hulimavu,Super built-up Area,1242.0,2,2,3,1,51.0,64.41741690360934
+Ambedkar Nagar,Built-up Area,3530.0,4,4,2,1,290.0,246.04572374656559
+Binny Pete,Super built-up Area,1740.0,3,3,1,0,150.0,142.56128364245657
+Rajaji Nagar,Super built-up Area,1776.0,3,3,1,0,190.0,229.36542777518886
+Other,Super built-up Area,1000.0,2,1,1,1,55.0,49.45557835910294
+Horamavu Agara,Super built-up Area,1200.0,2,2,1,1,45.0,53.39645542730658
+9th Phase JP Nagar,Super built-up Area,905.0,2,2,1,1,32.0,40.70419059743813
+Other,Super built-up Area,540.0,1,1,2,1,24.0,25.085170905957757
+Other,Built-up Area,1115.0,2,2,0,1,46.0,59.093052545431476
+Yelachenahalli,Super built-up Area,1130.0,2,2,2,1,40.0,63.11242759935248
+Horamavu Agara,Super built-up Area,1090.0,2,2,1,0,46.0,46.92591738236129
+Bhoganhalli,Super built-up Area,1260.0,2,2,1,1,69.9,72.02653697376314
+Hoodi,Super built-up Area,1305.0,2,2,1,1,75.0,72.64481323870798
+NRI Layout,Super built-up Area,1125.0,2,2,2,0,45.56,46.254089168949186
+Uttarahalli,Super built-up Area,1075.0,2,2,1,1,46.76,43.56549537869702
+Other,Super built-up Area,1900.0,3,2,2,1,190.0,102.24697578459487
+Begur Road,Super built-up Area,2500.0,4,6,0,0,122.5,107.88590917382079
+Hennur Road,Super built-up Area,1030.0,2,2,1,0,46.5,57.059007479598016
+Yelahanka,Super built-up Area,1170.0,2,2,1,1,62.5,57.04934600796642
+Whitefield,Plot Area,1200.0,2,2,1,0,45.84,75.13466835283127
+Sector 7 HSR Layout,Super built-up Area,1760.0,3,3,2,1,160.0,150.17106335942296
+Bellandur,Super built-up Area,1830.0,3,3,3,1,89.89,102.99704021119358
+Yeshwanthpur,Super built-up Area,1400.0,2,2,2,1,100.0,83.33787990380989
+Other,Super built-up Area,933.4454079999999,2,2,2,1,40.0,46.98368411387964
+Whitefield,Super built-up Area,1485.0,3,3,2,1,65.0,77.95834647214802
+Varthur,Super built-up Area,1140.0,2,2,3,1,55.5,50.166425344009525
+GM Palaya,Super built-up Area,1225.0,2,2,2,0,47.0,55.696357381363356
+Uttarahalli,Super built-up Area,1330.0,3,2,1,1,58.0,53.686156837150364
+Thanisandra,Super built-up Area,1573.0,3,3,2,1,98.0,92.20114239968771
+Yelenahalli,Built-up Area,1200.0,2,2,2,1,46.17,46.02850625599624
+Kambipura,Super built-up Area,1082.0,3,2,1,1,45.0,49.671312301213256
+Hosa Road,Plot Area,880.0,2,2,0,1,50.0,55.27942307156108
+Whitefield,Plot Area,1500.0,3,3,1,0,71.8,97.17520282677009
+Whitefield,Super built-up Area,1140.0,2,2,2,0,45.0,56.400538474897665
+Other,Super built-up Area,1330.0,2,2,1,1,56.0,71.0527049094693
+8th Phase JP Nagar,Super built-up Area,1269.0,3,2,3,1,50.75,54.247762386686496
+Hormavu,Super built-up Area,1020.0,2,2,2,1,45.75,44.41807268013089
+Raja Rajeshwari Nagar,Super built-up Area,1090.0,2,2,1,1,57.0,44.57872596450356
+Whitefield,Super built-up Area,3075.0,4,2,3,1,188.0,165.269497659485
+Bellandur,Super built-up Area,1692.0,3,3,2,1,88.0,95.04390419655297
+KR Puram,Super built-up Area,1700.0,3,3,3,1,105.0,72.902530805433
+Sahakara Nagar,Super built-up Area,1914.0,3,3,3,1,179.0,113.85623281084472
+Other,Super built-up Area,1080.0,3,2,2,1,75.0,53.63114668381902
+Marathahalli,Super built-up Area,700.0,1,1,1,0,38.0,34.59611651965294
+Kaval Byrasandra,Super built-up Area,1200.0,2,2,2,1,52.0,57.533605699935045
+Bannerghatta Road,Super built-up Area,970.0,2,2,1,1,57.0,48.31165971598694
+Kogilu,Built-up Area,952.0,2,2,2,1,49.0,38.89281051285826
+Other,Super built-up Area,1500.0,3,3,1,0,95.0,80.14299705621322
+Other,Super built-up Area,1650.0,3,3,2,1,135.0,90.27280673485082
+Thigalarapalya,Super built-up Area,1418.0,2,2,2,1,106.0,94.7733748538869
+Kanakpura Road,Super built-up Area,1135.0,2,2,2,1,58.0,56.05671965963797
+Kudlu Gate,Super built-up Area,703.0,1,1,1,0,52.0,31.493213497042984
+Cunningham Road,Super built-up Area,3815.0,3,3,1,0,763.0,734.8707894073947
+Koramangala,Super built-up Area,1260.0,2,2,1,1,100.0,112.0260652954815
+Kengeri Satellite Town,Built-up Area,883.0,2,2,1,1,45.0,35.460255975086056
+Other,Super built-up Area,801.0,1,1,0,0,33.645,39.31907887781497
+Harlur,Super built-up Area,1755.0,3,3,2,1,130.0,115.4301166510025
+Bannerghatta Road,Super built-up Area,1115.0,2,2,2,1,78.0,56.126539968560486
+Hennur Road,Super built-up Area,1981.0,3,3,1,1,134.0,123.0850438628256
+Whitefield,Super built-up Area,1295.0,2,2,3,1,78.5,65.90747968642182
+Nehru Nagar,Super built-up Area,1674.0,3,3,2,1,81.0,85.87082028459199
+Other,Super built-up Area,1080.0,2,2,1,1,37.8,56.012812921262665
+Marathahalli,Super built-up Area,1680.0,3,3,3,1,105.0,94.57621123769381
+Neeladri Nagar,Built-up Area,527.0,1,1,0,1,26.0,18.99031978015949
+Marathahalli,Built-up Area,1525.0,3,3,2,1,90.0,86.13680303229684
+Other,Plot Area,1200.0,4,4,0,0,120.0,78.21623655807284
+Chandapura,Super built-up Area,950.0,2,2,1,0,25.65,27.056756742278246
+Banaswadi,Super built-up Area,1600.0,3,3,2,1,74.5,89.538130711133
+Sector 7 HSR Layout,Built-up Area,3900.0,3,3,2,1,300.0,375.60651410596284
+Ambedkar Nagar,Super built-up Area,2225.0,3,4,2,1,169.0,149.10646673805854
+Yelahanka,Super built-up Area,1430.0,3,3,1,1,61.0,71.9146488724305
+Yelahanka,Super built-up Area,1100.0,2,2,1,1,70.0,53.16741892094885
+Kannamangala,Built-up Area,3000.0,4,4,0,1,200.0,197.49323547073354
+Yeshwanthpur,Super built-up Area,1679.0,3,3,2,1,92.13,102.8042531910387
+Kasavanhalli,Built-up Area,2110.0,3,4,3,1,120.0,129.02329910732468
+Whitefield,Super built-up Area,1216.0,2,2,1,0,80.0,61.27656192517244
+Other,Built-up Area,2100.0,4,3,2,1,280.0,115.81110320843932
+Thanisandra,Plot Area,1380.0,1,1,1,1,62.1,99.28302231390008
+Thigalarapalya,Super built-up Area,1418.0,2,2,2,1,104.0,94.7733748538869
+Other,Plot Area,1600.0,4,3,1,1,172.0,105.81019322037693
+Other,Plot Area,2400.0,2,2,1,1,228.0,173.59199383384907
+Other,Super built-up Area,1450.0,3,3,3,1,68.0,77.17249930799834
+Bannerghatta,Super built-up Area,1776.0,3,3,2,0,124.0,124.72662407612523
+Other,Built-up Area,1200.0,1,2,1,1,45.0,65.89660681036028
+Sarjapur  Road,Super built-up Area,3418.0,4,3,2,1,235.0,212.93762787139894
+Other,Super built-up Area,1200.0,2,1,1,1,54.0,60.906241122443575
+Sarjapur  Road,Super built-up Area,1220.0,3,3,2,1,57.0,67.92999461397929
+Koramangala,Super built-up Area,1744.0,3,3,1,1,200.0,162.77881548591827
+Other,Built-up Area,1116.0,2,2,1,0,37.6,57.488641283750034
+Other,Built-up Area,1810.0,3,3,3,1,118.0,100.20929704817716
+Electronic City Phase II,Built-up Area,1220.0,3,3,1,0,35.23,43.41942880045496
+Banashankari Stage III,Super built-up Area,1305.0,3,2,1,1,60.0,71.09808030992173
+Attibele,Built-up Area,395.0,1,1,1,1,10.25,10.962281134947904
+Other,Super built-up Area,610.0,1,1,0,0,28.0,28.805107927542448
+Other,Super built-up Area,747.0,1,1,2,1,27.0,36.34074580210792
+Other,Super built-up Area,990.0,2,2,2,1,58.0,50.24905000302622
+Kaval Byrasandra,Built-up Area,1060.0,2,2,2,1,45.0,50.32848395069452
+Hormavu,Super built-up Area,1150.0,2,2,2,1,55.0,50.94122839345305
+Uttarahalli,Super built-up Area,1490.0,3,2,2,1,59.6,60.564921414189094
+Other,Super built-up Area,1000.0,2,2,1,1,44.0,51.29893706644847
+Yeshwanthpur,Built-up Area,3027.0,3,4,3,1,260.0,208.79491740476485
+Kundalahalli,Super built-up Area,1724.0,3,3,1,0,125.0,120.65544721658706
+Rajaji Nagar,Super built-up Area,1640.0,3,3,3,1,245.0,209.61449492344897
+Other,Super built-up Area,1170.0,2,2,2,1,68.0,60.81356229229051
+Banashankari Stage III,Built-up Area,1304.0,2,2,0,0,111.0,73.34594314806871
+Other,Built-up Area,793.0,1,1,1,0,40.0,38.820548674114974
+Kanakpura Road,Super built-up Area,700.0,2,2,1,0,35.0,31.9490266415223
+Kanakpura Road,Plot Area,2775.0,4,3,1,1,165.0,189.4033450154971
+Kundalahalli,Super built-up Area,1724.0,3,3,2,1,125.0,121.88677852734808
+Banashankari Stage III,Built-up Area,3000.0,6,6,2,1,150.0,191.94857143904207
+Other,Super built-up Area,1875.0,3,3,2,1,165.0,104.46548603847921
+Haralur Road,Super built-up Area,1245.0,2,2,3,1,62.0,64.35017739513387
+Other,Built-up Area,1234.0,2,2,1,0,61.0,64.482715064381
+TC Palaya,Super built-up Area,1152.0,2,2,2,1,55.0,54.50938681148664
+Ulsoor,Plot Area,1160.0,2,2,1,1,130.0,121.09666848473204
+Somasundara Palya,Super built-up Area,1185.0,2,2,3,1,70.0,59.205262855693356
+Jakkur,Super built-up Area,1483.0,2,2,1,0,98.0,89.16700407541266
+Thanisandra,Super built-up Area,1098.0,2,2,1,1,71.0,61.570792214587755
+Hennur Road,Super built-up Area,1232.0,2,2,1,0,69.61,70.01041908559282
+Channasandra,Super built-up Area,1010.0,2,2,1,1,32.0,38.043021336634226
+8th Phase JP Nagar,Super built-up Area,3300.0,3,3,2,1,165.0,169.18904019296028
+Hebbal,Super built-up Area,2470.0,4,4,2,0,203.0,182.09094385060988
+Kanakpura Road,Carpet Area,458.0,1,1,0,0,19.695,21.596824888752575
+Begur Road,Super built-up Area,952.0,2,2,1,0,42.0,32.8239429068077
+Akshaya Nagar,Super built-up Area,1421.0,3,2,2,1,73.0,69.04983755482984
+Rajaji Nagar,Super built-up Area,3516.0,4,4,3,1,540.0,502.07083480063653
+Uttarahalli,Super built-up Area,1385.0,3,2,2,1,48.48,55.71465576640568
+Electronic City,Super built-up Area,710.0,1,1,1,0,40.42,28.07776652481353
+Marathahalli,Super built-up Area,1933.0,3,3,2,1,140.0,112.03836716891269
+Electronic City Phase II,Built-up Area,1320.0,3,2,1,0,38.13,45.80077534826528
+Hebbal,Super built-up Area,1255.0,3,2,1,0,95.0,81.56122609763777
+Other,Super built-up Area,1427.0,3,2,3,1,70.0,73.05290906939632
+Raja Rajeshwari Nagar,Built-up Area,1000.0,2,2,0,1,50.0,41.096394448948125
+Gottigere,Super built-up Area,1280.0,2,2,1,1,61.0,51.92649025024959
+Jakkur,Super built-up Area,1622.0,3,2,0,1,80.0,98.21394241039211
+Panathur,Super built-up Area,1000.0,2,2,1,0,65.3,58.54017753409434
+Raja Rajeshwari Nagar,Built-up Area,3600.0,9,9,3,1,240.0,175.54593115871782
+Hennur Road,Super built-up Area,987.0,2,2,1,1,49.0,55.40814829533253
+Budigere,Super built-up Area,1153.0,2,2,2,1,56.5,56.71524401115946
+Whitefield,Plot Area,1200.0,2,2,1,0,45.0,75.13466835283127
+Other,Built-up Area,4200.0,4,4,2,1,255.0,265.1559550850233
+Hormavu,Super built-up Area,1250.0,2,2,2,1,65.0,56.031669220494074
+EPIP Zone,Super built-up Area,3360.0,4,5,0,1,225.0,260.0033308260293
+Mahadevpura,Super built-up Area,1620.0,3,2,1,1,76.0,77.13641893043659
+Bannerghatta Road,Super built-up Area,1179.0,2,2,1,0,66.02,59.21695374057417
+Sarjapur  Road,Super built-up Area,1150.0,2,2,2,1,77.0,63.34773808220849
+Bannerghatta Road,Built-up Area,1250.0,2,2,0,1,48.0,65.65792058013857
+Whitefield,Super built-up Area,1301.0,2,2,2,1,65.0,66.86865130203293
+Bommasandra,Super built-up Area,1365.0,3,3,1,0,52.82,52.67055630852856
+Sarjapur  Road,Super built-up Area,1340.0,2,2,2,1,75.0,75.43726152698432
+Other,Built-up Area,1305.0,2,2,2,1,52.0,69.43922709512577
+Judicial Layout,Super built-up Area,1100.0,3,2,1,0,53.0,69.39201544493916
+CV Raman Nagar,Super built-up Area,1020.0,2,2,1,1,55.0,52.847884059427585
+Kanakpura Road,Super built-up Area,1843.0,3,3,2,1,95.0,97.75232131065142
+Bommanahalli,Super built-up Area,520.0,1,1,0,1,19.5,20.523256214784823
+Other,Super built-up Area,1301.0,2,2,2,1,55.0,68.6513994630461
+Sarjapur  Road,Super built-up Area,1311.0,2,2,1,1,78.0,74.25516056100352
+Anandapura,Super built-up Area,1576.0,3,3,2,1,58.7,65.97577477756981
+Electronics City Phase 1,Super built-up Area,1450.0,3,2,2,1,63.51,69.15799778293827
+Yelahanka,Super built-up Area,1705.0,3,3,1,1,74.16,87.91715489033355
+Raja Rajeshwari Nagar,Super built-up Area,945.0,2,2,1,1,45.0,37.87153085887656
+Chandapura,Super built-up Area,630.0,1,1,0,0,13.86,17.040840204114396
+Other,Super built-up Area,3000.0,8,4,3,1,130.0,154.75824437141534
+Other,Built-up Area,799.0,2,2,1,1,35.0,40.01500542637455
+Uttarahalli,Super built-up Area,1025.0,2,2,1,1,35.88,41.258669673881755
+Hebbal Kempapura,Built-up Area,1725.0,3,2,1,1,165.0,135.43360841344858
+Hennur Road,Built-up Area,1066.0,2,2,1,1,52.23,60.98230806967056
+Other,Super built-up Area,1185.0,2,2,2,1,38.0,61.704956460631486
+Hennur,Super built-up Area,1655.0,3,2,1,1,70.5,75.15319399126628
+Raja Rajeshwari Nagar,Super built-up Area,1185.0,2,2,1,1,51.15,49.043653524949455
+Other,Super built-up Area,920.0,2,2,0,1,35.0,47.06942961470799
+Hennur Road,Super built-up Area,1359.0,2,2,2,0,104.0,77.59589336695012
+Whitefield,Built-up Area,1270.0,2,2,1,1,110.0,66.17381887504811
+Kaggadasapura,Super built-up Area,1000.0,2,2,2,1,43.0,40.723790086353006
+Chandapura,Super built-up Area,410.0,1,1,1,1,10.0,10.539067864529029
+Cox Town,Super built-up Area,1200.0,2,2,2,1,140.0,88.47977588746794
+Other,Super built-up Area,2400.0,2,2,3,1,125.0,136.90633714759917
+Hennur,Super built-up Area,1075.0,2,2,1,1,52.0,47.50870886354849
+Budigere,Super built-up Area,1087.0,2,2,1,1,54.3,53.512178442593644
+NRI Layout,Plot Area,1250.0,2,2,0,1,75.0,67.44164433126151
+Other,Super built-up Area,1410.0,2,2,2,1,73.0,75.25969422139964
+Other,Built-up Area,1146.0,2,2,1,1,38.5,60.41515323912394
+Other,Plot Area,3884.0,4,4,3,1,240.0,296.74795274747464
+JP Nagar,Built-up Area,1520.0,3,3,2,1,125.0,86.03638962622803
+Vidyaranyapura,Built-up Area,2400.0,4,5,1,1,135.0,131.36552179503215
+Kengeri,Super built-up Area,1220.0,2,2,2,1,63.0,53.07147846549418
+Ramamurthy Nagar,Super built-up Area,935.0,2,2,2,1,39.0,41.09220534665272
+Other,Super built-up Area,1210.0,2,2,2,1,40.0,63.194175558358125
+Kathriguppe,Super built-up Area,1250.0,2,2,1,1,68.75,72.80404939579265
+Banaswadi,Super built-up Area,870.0,2,2,2,1,38.0,44.53941897905077
+Banashankari Stage III,Super built-up Area,1480.0,3,3,1,0,75.48,83.5166583161948
+Amruthahalli,Super built-up Area,1450.0,3,2,1,1,85.0,70.36532573198632
+Panathur,Super built-up Area,1007.0,2,2,1,0,64.0,59.00849175004161
+Hebbal Kempapura,Super built-up Area,1730.0,3,3,2,1,175.0,138.55687043585226
+Kasturi Nagar,Super built-up Area,2507.0,4,4,2,1,155.0,165.66981276710237
+Whitefield,Plot Area,1200.0,2,2,1,0,45.84,75.13466835283127
+Kaggalipura,Super built-up Area,1150.0,3,2,1,1,55.0,60.15096330863058
+Koramangala,Super built-up Area,1700.0,3,3,3,1,250.0,155.21440378809098
+Kundalahalli,Super built-up Area,1397.0,3,3,3,0,108.0,93.15826863225178
+Other,Super built-up Area,2100.0,4,4,2,1,150.0,119.18200596093467
+Raja Rajeshwari Nagar,Super built-up Area,1143.0,2,2,2,1,38.65,46.63223994892714
+Electronic City,Built-up Area,865.0,2,2,0,1,42.0,36.57382822972559
+Jigani,Super built-up Area,1245.0,3,3,3,1,66.0,66.1864772821382
+Brookefield,Plot Area,1950.0,5,6,3,1,175.0,155.0884818937029
+Koramangala,Super built-up Area,1835.0,3,2,3,1,155.0,163.2855244104808
+Other,Super built-up Area,1152.0,2,2,1,1,42.0,60.29812483112593
+Other,Super built-up Area,1767.0,3,3,2,1,98.0,97.62083332287884
+Ramagondanahalli,Carpet Area,1500.0,3,3,3,1,100.0,78.56227804384423
+Hoodi,Super built-up Area,1746.0,3,3,3,0,84.95,97.7799901200318
+Bommenahalli,Plot Area,1200.0,3,3,1,1,125.0,109.33024425159742
+Budigere,Super built-up Area,705.0,1,1,0,0,34.545,32.227912273595834
+KR Puram,Built-up Area,2000.0,6,6,0,1,85.0,91.58716441548835
+Whitefield,Plot Area,1200.0,3,3,1,0,68.4,75.31090579051953
+Thanisandra,Super built-up Area,510.0,1,1,0,0,25.25,25.324116125229818
+Ananth Nagar,Super built-up Area,1319.0,3,3,1,1,42.0,41.79536938134193
+Banashankari,Super built-up Area,1460.0,2,2,3,1,70.0,77.11081720368988
+Rajaji Nagar,Super built-up Area,3100.0,4,4,3,1,550.0,434.80784726408746
+Channasandra,Super built-up Area,1010.0,2,2,1,1,36.0,38.043021336634226
+Poorna Pragna Layout,Super built-up Area,1475.0,3,2,2,1,58.99,64.02238049612976
+Hormavu,Super built-up Area,1100.0,2,2,3,1,38.0,47.975881219919685
+Magadi Road,Super built-up Area,1000.0,2,2,0,0,46.5,46.678093864712125
+Thubarahalli,Super built-up Area,1584.0,3,3,2,1,101.0,101.83966775236382
+Yelahanka New Town,Super built-up Area,1700.0,3,3,2,1,90.0,77.8933701788862
+Electronic City,Super built-up Area,1575.0,3,3,1,1,94.5,71.45841535844599
+Balagere,Super built-up Area,1007.0,2,2,1,1,66.0,62.42353277985968
+Other,Built-up Area,2425.0,4,4,3,1,173.0,140.29168493677443
+Other,Super built-up Area,1180.0,2,2,2,1,63.0,61.40764567384285
+Margondanahalli,Plot Area,1448.0,3,3,1,1,70.0,83.78276531743104
+Ulsoor,Built-up Area,1180.0,2,2,2,1,100.0,99.06804851804885
+Hormavu,Super built-up Area,1310.0,2,2,3,1,60.0,58.57293214144593
+Other,Super built-up Area,1600.0,3,3,3,1,90.0,86.35688163066929
+BTM 2nd Stage,Super built-up Area,1400.0,2,2,3,1,90.0,91.0182756963702
+Singasandra,Built-up Area,1440.0,3,2,3,1,65.0,63.27373833441569
+Attibele,Super built-up Area,1639.0,3,2,1,1,40.98,53.5196877437004
+Jakkur,Super built-up Area,1202.0,2,2,1,1,79.0,71.51406366164314
+Kodichikkanahalli,Super built-up Area,1190.0,3,2,2,1,57.0,51.19713675234223
+Begur Road,Super built-up Area,1200.0,2,2,2,1,44.0,43.196577590164615
+Other,Built-up Area,1480.0,3,3,2,1,74.0,80.36166196274293
+Dasarahalli,Super built-up Area,1160.0,2,2,2,1,49.0,58.49070732097063
+Doddathoguru,Built-up Area,1100.0,2,2,2,1,50.0,40.687544084385685
+Other,Super built-up Area,1740.0,3,3,2,1,199.0,95.91881269677467
+Whitefield,Super built-up Area,1195.0,2,2,1,0,62.38,60.06926780367968
+Sarakki Nagar,Plot Area,1200.0,3,3,2,1,128.0,151.27684822491443
+Yelahanka,Super built-up Area,1304.0,2,2,1,0,79.0,63.33413570287919
+NGR Layout,Super built-up Area,1021.0,2,2,2,1,45.9,45.435735192248416
+Other,Built-up Area,1220.0,2,2,2,1,68.0,64.29728682470076
+Whitefield,Super built-up Area,1215.0,2,2,3,0,65.0,60.103093685426586
+Jalahalli East,Super built-up Area,775.0,1,1,0,1,34.1,39.07667506327051
+Hennur Road,Super built-up Area,1891.0,3,3,1,1,139.0,116.71843322674243
+Benson Town,Super built-up Area,3200.0,3,4,2,1,350.0,443.1218442989422
+Other,Super built-up Area,1400.0,3,2,2,1,55.0,72.13665748024232
+Mysore Road,Super built-up Area,1340.0,3,2,3,1,64.31,65.660285922894
+Bellandur,Built-up Area,1350.0,2,2,1,1,79.0,74.52729624752148
+Mahadevpura,Super built-up Area,1136.0,2,2,3,1,64.5,52.24919721354808
+Raja Rajeshwari Nagar,Super built-up Area,1419.0,2,2,2,1,48.1,59.70173037967307
+Uttarahalli,Super built-up Area,1330.0,3,2,1,1,57.0,53.686156837150364
+Electronic City Phase II,Super built-up Area,1020.0,2,2,1,0,30.6,35.02767777614508
+Uttarahalli,Super built-up Area,1155.0,2,2,2,1,40.42,46.85506840197236
+Whitefield,Super built-up Area,1130.0,2,2,1,0,42.16,56.35171898943885
+Basaveshwara Nagar,Super built-up Area,1900.0,3,3,3,1,150.0,153.04754555943114
+Sarjapur  Road,Super built-up Area,984.0,2,2,1,0,45.91,52.47911562035729
+Anandapura,Plot Area,1200.0,2,2,1,1,58.0,60.57062106428574
+Somasundara Palya,Super built-up Area,1600.0,3,3,3,1,68.0,83.62419137073293
+Vijayanagar,Super built-up Area,1500.0,3,3,2,1,75.5,97.78076168618544
+Old Madras Road,Super built-up Area,2990.0,3,3,2,1,170.0,178.35118620269512
+Yeshwanthpur,Super built-up Area,1277.5,2,2,0,1,95.815,76.45519654893795
+Lingadheeranahalli,Super built-up Area,1519.0,3,3,1,1,93.0,97.45668108429675
+Brookefield,Super built-up Area,2169.0,3,4,2,1,115.0,141.32663230023843
+Yelahanka,Super built-up Area,697.0,1,1,0,0,45.0,31.17926846718101
+Billekahalli,Built-up Area,2400.0,3,3,1,1,150.0,158.0417262217442
+KR Puram,Built-up Area,1452.0,3,3,3,1,60.0,61.36910387192677
+Kengeri Satellite Town,Super built-up Area,1120.0,2,2,2,1,49.0,45.73645447653173
+Kothanur,Super built-up Area,1820.0,3,3,3,1,77.0,95.35996297125801
+Neeladri Nagar,Super built-up Area,4000.0,10,12,2,1,160.0,205.84390962816687
+5th Phase JP Nagar,Built-up Area,1030.0,2,2,2,1,57.0,49.37470284215657
+Other,Super built-up Area,1028.0,2,2,1,0,45.5,51.92821364117325
+Koramangala,Super built-up Area,1744.0,3,4,1,1,210.0,168.84607335354625
+Kasavanhalli,Built-up Area,1495.0,2,2,2,1,83.0,84.49310514252011
+Other,Plot Area,1200.0,2,2,3,1,135.0,77.21152910422613
+Other,Built-up Area,2511.0,3,3,3,1,205.0,145.6473826743043
+Electronics City Phase 1,Super built-up Area,940.0,2,2,1,1,48.0,44.02418040916879
+Other,Super built-up Area,1150.0,2,2,1,0,56.0,59.025193905221386
+Other,Super built-up Area,1835.0,3,3,3,1,175.0,100.99049573621642
+Thanisandra,Super built-up Area,1825.0,3,3,2,1,100.0,109.25764717848405
+Yelahanka,Built-up Area,1712.0,3,3,3,1,82.0,87.407623835667
+Sompura,Super built-up Area,1020.0,2,2,3,1,41.0,36.98247412829475
+Banashankari,Super built-up Area,1683.0,3,3,2,1,115.0,91.75746427320335
+Marathahalli,Super built-up Area,1310.0,3,3,1,0,63.22,71.11450766178916
+Jalahalli,Super built-up Area,1575.0,3,4,3,1,100.0,102.71797121762974
+Whitefield,Super built-up Area,1458.0,3,2,2,1,62.0,73.59814243281052
+Harlur,Super built-up Area,2820.0,4,4,0,1,153.5,202.58257087529276
+Other,Super built-up Area,1250.0,2,2,1,1,62.4,66.19206822576
+Indira Nagar,Super built-up Area,1200.0,2,2,2,1,93.0,123.05905737885925
+Electronic City,Built-up Area,1060.0,2,2,1,1,55.0,45.71162012062324
+Kothanur,Super built-up Area,1787.0,3,3,2,1,107.0,94.25043065513766
+Other,Super built-up Area,925.0,2,2,1,1,55.0,46.928105195692346
+Whitefield,Built-up Area,1991.0,3,3,2,0,104.0,107.73410814491722
+Bannerghatta Road,Super built-up Area,1711.0,3,3,2,1,125.0,91.75293099999121
+Horamavu Agara,Built-up Area,1106.0,2,2,1,1,43.09,49.03190393646385
+Munnekollal,Super built-up Area,1200.0,3,2,1,0,57.9,53.63821829230264
+Vidyaranyapura,Built-up Area,1050.0,2,2,1,1,50.0,49.0289556471761
+Raja Rajeshwari Nagar,Super built-up Area,1279.0,3,2,1,1,53.76,51.710180218125586
+Other,Built-up Area,1595.0,3,3,2,1,76.0,87.53295145261818
+Marathahalli,Super built-up Area,1910.0,3,3,3,1,119.0,109.50500493170978
+Other,Built-up Area,1155.0,3,2,0,1,60.0,59.44916103494018
+Other,Built-up Area,1107.0,2,2,2,1,40.0,57.540658293706024
+Hennur Road,Super built-up Area,1186.0,3,2,1,0,63.0,64.7753676151113
+Other,Plot Area,1200.0,1,1,1,1,28.0,78.46104514095634
+Whitefield,Super built-up Area,1760.0,3,3,2,1,139.0,94.65564911273927
+Frazer Town,Built-up Area,2079.0,3,3,3,0,220.0,188.1499433600458
+Whitefield,Super built-up Area,1216.0,2,2,1,0,73.0,61.27656192517244
+Bisuvanahalli,Built-up Area,1080.0,3,2,1,1,45.0,41.852685697714136
+Thigalarapalya,Super built-up Area,2072.0,3,4,2,1,152.0,151.9653415243473
+Other,Plot Area,1350.0,2,2,0,1,90.0,90.80220431121457
+Other,Built-up Area,1020.0,2,2,1,1,37.0,52.88891896689657
+R.T. Nagar,Super built-up Area,1235.0,2,2,2,1,65.0,75.1359505483222
+Hennur Road,Super built-up Area,1445.0,3,2,2,1,86.69,81.99875197006877
+Sarjapur,Plot Area,2238.0,3,3,1,0,140.0,113.5768892752829
+Sector 2 HSR Layout,Super built-up Area,794.0,1,1,1,1,60.0,46.535999916930244
+Hennur,Super built-up Area,1020.0,2,2,1,1,48.0,44.74247006693214
+Horamavu Banaswadi,Super built-up Area,1156.0,2,2,2,1,46.0,47.459605012898635
+Balagere,Super built-up Area,790.5,1,1,0,0,42.295,46.755949601130695
+Marathahalli,Built-up Area,3855.0,4,4,3,1,220.0,246.755432137006
+Other,Built-up Area,1135.0,2,2,2,1,32.91,59.20610166808477
+Hennur Road,Super built-up Area,973.0,2,2,1,1,56.0,54.51131073432684
+Bannerghatta Road,Super built-up Area,1050.0,2,2,1,1,65.0,52.889099756625825
+Green Glen Layout,Super built-up Area,1717.0,3,3,3,1,125.0,109.95033099800165
+Other,Super built-up Area,840.0,2,2,2,1,45.0,41.65047956445177
+Devarachikkanahalli,Built-up Area,615.0,1,1,1,1,24.0,23.866163224809167
+Bhoganhalli,Super built-up Area,1458.0,3,3,1,0,78.45,83.65864287653382
+Neeladri Nagar,Super built-up Area,1105.0,2,2,2,0,30.0,42.36652081080776
+Thyagaraja Nagar,Super built-up Area,2000.0,5,4,2,1,145.0,174.49779357310183
+Anjanapura,Super built-up Area,1070.0,2,2,2,0,37.0,38.24371897080841
+Other,Built-up Area,1200.0,2,2,3,1,50.0,62.51698646162037
+Hosa Road,Super built-up Area,1726.0,3,3,2,0,81.99,92.52336012640542
+Lakshminarayana Pura,Built-up Area,1195.0,2,2,1,1,75.0,78.59093582935249
+Other,Super built-up Area,826.0,2,2,2,1,36.0,40.85848797626685
+Kathriguppe,Super built-up Area,1250.0,3,2,2,1,68.75,69.70841935416477
+Other,Plot Area,1200.0,3,2,0,1,108.0,76.69917957246471
+Hosa Road,Super built-up Area,1652.0,3,3,2,1,85.0,89.72583089603509
+HSR Layout,Built-up Area,1203.0,2,2,2,1,72.0,59.05371302497507
+Electronic City Phase II,Super built-up Area,1065.0,2,2,1,1,56.13,37.51739547754685
+Other,Built-up Area,3600.0,4,4,0,1,225.0,226.47453752297258
+Bannerghatta Road,Super built-up Area,1240.0,2,2,1,1,65.0,63.95510256382631
+Other,Built-up Area,450.0,1,1,2,1,60.0,20.530670883210373
+Gottigere,Super built-up Area,1010.0,2,2,1,1,35.0,39.615233252009986
+Yelahanka,Super built-up Area,654.0,1,1,1,0,37.0,28.726428982830754
+Other,Super built-up Area,1418.0,2,2,1,1,62.0,76.44760127139331
+Other,Super built-up Area,1250.0,2,2,2,1,55.0,65.58601360763976
+Thanisandra,Super built-up Area,1075.0,2,2,2,1,45.8,59.5494999713386
+Haralur Road,Super built-up Area,1810.0,3,3,2,0,100.0,97.90103884502767
+Vishwapriya Layout,Super built-up Area,890.0,2,2,3,1,37.0,34.14471061583175
+Other,Super built-up Area,1240.0,3,2,2,1,65.0,62.798754711249096
+1st Phase JP Nagar,Super built-up Area,1180.0,2,2,2,1,88.5,83.6880244192436
+Other,Super built-up Area,1480.0,3,2,2,1,125.0,76.86404562948049
+Electronic City,Super built-up Area,1111.0,3,3,1,0,50.0,47.04558212087958
+Malleshpalya,Super built-up Area,1060.0,2,2,1,1,40.0,46.24913295210228
+Cooke Town,Built-up Area,2388.0,3,4,3,1,239.0,250.6836503062888
+Other,Super built-up Area,1250.0,3,3,2,0,40.0,64.47989931248894
+Brookefield,Built-up Area,1142.0,2,2,2,1,70.0,65.84405263090233
+Uttarahalli,Super built-up Area,661.0,1,1,1,0,36.0,24.460478653992894
+Babusapalaya,Super built-up Area,1061.0,2,2,1,0,38.95,38.05642709341117
+Electronic City,Super built-up Area,660.0,2,1,1,1,15.5,25.448657263235045
+9th Phase JP Nagar,Built-up Area,1890.0,3,2,2,1,85.0,91.09930679323763
+Other,Built-up Area,1250.0,3,2,1,1,80.0,64.47078472351544
+Other,Built-up Area,1518.0,3,3,2,0,76.0,81.13738491976608
+Other,Built-up Area,1300.0,3,2,1,1,80.0,67.42479912038016
+Bannerghatta Road,Super built-up Area,1650.0,3,3,1,1,94.0,88.83938213901178
+Yelahanka New Town,Super built-up Area,440.0,1,1,1,1,16.5,16.70901697734974
+Kundalahalli,Super built-up Area,1047.0,2,2,1,0,89.0,68.09639219355982
+Electronic City,Built-up Area,770.0,2,1,1,1,36.0,30.58925491381333
+Sarjapur,Built-up Area,1575.0,3,3,3,1,55.0,61.621674762123625
+Hennur Road,Built-up Area,1015.0,2,2,2,1,50.0,57.133238844381104
+Other,Super built-up Area,3675.0,4,4,3,0,367.0,219.49626101750462
+Other,Built-up Area,1936.0,3,3,2,1,139.0,109.21635026160095
+Begur Road,Built-up Area,1400.0,3,2,3,1,50.06,49.71449875245978
+Gunjur,Super built-up Area,1071.0,2,2,1,1,51.0,43.4976256292775
+Banashankari Stage VI,Built-up Area,4800.0,4,4,3,1,190.0,266.336366946977
+Other,Super built-up Area,1175.0,2,2,2,1,48.27,61.110514066464496
+Other,Plot Area,1350.0,4,4,0,1,175.0,91.22867896969721
+Rachenahalli,Super built-up Area,1050.0,2,2,2,1,52.07,52.068825294446654
+Other,Super built-up Area,1050.0,2,2,2,1,47.0,53.742466074778605
+Thubarahalli,Built-up Area,3800.0,4,4,3,1,239.0,276.99257571825694
+Electronic City,Super built-up Area,1152.0,2,2,1,0,64.5,48.91915024465822
+Anjanapura,Super built-up Area,710.0,2,2,0,1,25.0,24.85914915662462
+Other,Super built-up Area,1700.0,3,2,2,1,68.5,90.04785940980368
+Other,Plot Area,1350.0,3,2,0,1,175.0,87.74468263155411
+Rajaji Nagar,Super built-up Area,3436.0,4,6,3,1,475.0,526.1787885015794
+7th Phase JP Nagar,Super built-up Area,2095.0,3,3,2,1,150.0,145.04138989529318
+Whitefield,Super built-up Area,1269.0,2,2,1,0,75.0,64.3366521131074
+Electronics City Phase 1,Super built-up Area,1124.0,3,2,2,1,55.0,51.70174574581114
+Hoodi,Super built-up Area,1715.0,3,2,2,1,100.0,95.03180951009621
+8th Phase JP Nagar,Super built-up Area,1059.0,2,2,2,0,34.5,45.19645791324775
+Begur Road,Super built-up Area,1444.0,3,2,2,1,71.5,51.569908894181815
+Uttarahalli,Super built-up Area,1000.0,2,2,2,1,39.5,39.74394143175781
+Kalena Agrahara,Super built-up Area,1837.0,3,2,2,1,95.0,95.752271874302
+Anandapura,Super built-up Area,1576.0,3,3,2,1,58.0,65.97577477756981
+Haralur Road,Super built-up Area,1710.0,3,3,2,1,85.0,93.54004963955157
+Kaggadasapura,Super built-up Area,1400.0,3,2,2,1,68.0,57.7950382006448
+Other,Super built-up Area,1494.0,3,2,2,1,94.55,77.69514012955516
+Whitefield,Super built-up Area,1280.0,2,2,2,1,52.0,65.63715595599072
+Other,Super built-up Area,909.0,3,2,1,1,40.0,44.45304042979648
+Hulimavu,Built-up Area,1188.0,2,2,3,1,46.0,61.71406574840885
+Devarachikkanahalli,Super built-up Area,991.0,2,2,2,1,40.0,40.55550995722
+Bommasandra,Super built-up Area,1005.0,2,2,1,0,39.77,37.039610330742875
+Subramanyapura,Super built-up Area,985.0,2,2,1,1,58.0,51.8752805820729
+Harlur,Super built-up Area,1755.0,3,3,2,1,117.0,115.4301166510025
+5th Phase JP Nagar,Super built-up Area,1200.0,2,2,1,1,68.0,58.86396785849909
+Harlur,Super built-up Area,1630.0,3,3,1,0,95.1,105.0157689238511
+Benson Town,Super built-up Area,1300.0,2,2,1,1,120.0,153.72445474070454
+Marathahalli,Super built-up Area,1710.0,3,3,2,1,100.0,97.3995783515389
+Whitefield,Super built-up Area,1215.0,2,2,1,0,62.0,61.21900403108905
+Brookefield,Super built-up Area,1589.0,3,3,2,1,74.0,95.49250093349157
+Mallasandra,Super built-up Area,905.0,2,2,1,1,35.0,44.78094052667822
+Other,Super built-up Area,1050.0,2,2,2,1,50.0,53.742466074778605
+Electronic City,Super built-up Area,1073.0,2,2,2,1,60.0,45.5665693168848
+Other,Super built-up Area,600.0,2,4,1,1,70.0,30.79519343249617
+Other,Super built-up Area,1425.0,3,2,2,1,65.0,73.60993994235241
+Other,Built-up Area,2000.0,4,4,1,1,75.5,114.66583964498257
+Other,Super built-up Area,1209.0,2,2,1,1,50.0,63.71792344560761
+Other,Plot Area,1200.0,4,4,1,0,85.0,77.50008864717331
+Uttarahalli,Super built-up Area,1107.0,2,2,1,1,45.0,45.04994212316349
+Chikkalasandra,Super built-up Area,1265.0,3,2,2,1,53.12,55.69402397187527
+Begur Road,Super built-up Area,1410.0,3,2,3,1,49.34,49.72574815723106
+Whitefield,Super built-up Area,1404.0,3,2,2,1,59.0,70.49276430384211
+Other,Super built-up Area,1175.0,2,2,1,1,48.0,61.67521234935209
+Whitefield,Super built-up Area,2010.0,3,3,3,1,92.0,109.15457341779346
+Uttarahalli,Built-up Area,1160.0,2,2,2,1,45.0,47.46047421549394
+Vishveshwarya Layout,Super built-up Area,2100.0,6,6,0,1,92.0,79.73380301586133
+Thigalarapalya,Super built-up Area,2072.0,3,4,2,1,139.0,151.9653415243473
+Hormavu,Super built-up Area,1617.5,3,3,0,0,73.595,75.3174291801453
+Other,Built-up Area,2820.0,3,3,2,1,285.0,167.83040448113812
+Other,Super built-up Area,1500.0,3,3,2,1,56.0,80.9608845523028
+Other,Super built-up Area,3000.0,4,5,2,0,260.0,182.23825445699936
+Uttarahalli,Super built-up Area,1213.0,2,2,2,1,48.0,49.55218056384001
+Bannerghatta Road,Super built-up Area,1200.0,2,2,2,0,78.0,59.87005380566595
+Sahakara Nagar,Super built-up Area,1500.0,3,3,2,1,125.0,86.98438064503802
+Haralur Road,Super built-up Area,1520.0,3,2,2,0,90.0,77.31611870973825
+Kadubeesanahalli,Built-up Area,1184.0,2,2,1,1,55.0,72.40650020413891
+Kogilu,Super built-up Area,1559.0,3,3,2,0,120.0,66.63999661794642
+NGR Layout,Super built-up Area,1020.0,2,2,1,1,46.0,45.804290364665874
+HBR Layout,Super built-up Area,1722.0,3,3,2,1,95.0,117.28453372355911
+Old Madras Road,Super built-up Area,2760.0,3,5,2,1,157.0,175.12751599714568
+Bannerghatta Road,Super built-up Area,700.0,1,1,1,1,31.2,33.205083782945934
+Electronics City Phase 1,Super built-up Area,755.0,1,1,1,0,42.41,33.53875453596602
+Rajaji Nagar,Super built-up Area,1613.0,3,3,0,0,150.0,207.37953271434216
+Kothanur,Super built-up Area,1455.0,2,2,2,1,69.0,74.35409211917406
+8th Phase JP Nagar,Super built-up Area,1510.0,2,2,3,1,80.0,68.47254138972075
+Haralur Road,Super built-up Area,1027.0,2,2,2,1,43.0,52.125685758276184
+Electronics City Phase 1,Super built-up Area,995.0,2,2,1,1,49.8,46.978586290325225
+Other,Super built-up Area,1086.0,2,2,1,1,47.5,56.36840796470518
+Other,Super built-up Area,1040.0,2,2,2,1,36.4,53.158210786214674
+Yelahanka,Super built-up Area,697.0,1,1,1,1,35.0,31.49746387730079
+Kengeri,Super built-up Area,1320.0,2,2,1,1,50.0,58.60540997554012
+Chandapura,Super built-up Area,975.0,2,2,1,0,24.86,27.871588300017482
+Kanakpura Road,Super built-up Area,525.0,1,1,1,0,26.25,22.94701111984415
+Whitefield,Super built-up Area,750.0,2,2,1,0,52.7,35.2828083727732
+Kanakpura Road,Super built-up Area,1339.0,2,2,2,1,62.0,67.70571727956023
+Kothanur,Super built-up Area,1581.0,3,3,3,1,76.0,81.1947820314131
+Subramanyapura,Super built-up Area,1278.0,3,3,2,1,62.71,69.36941785516078
+Other,Carpet Area,3150.0,8,5,2,1,145.0,186.69997855543556
+Other,Built-up Area,2700.0,3,3,3,1,200.0,158.23542829475528
+Vidyaranyapura,Built-up Area,1060.0,2,2,2,1,55.0,49.10889521166557
+Other,Super built-up Area,1156.0,2,2,2,1,46.0,59.98305966667421
+Brookefield,Super built-up Area,1080.0,2,2,3,1,50.0,60.72924673590506
+Harlur,Built-up Area,1225.0,2,2,2,1,56.0,76.98014291739918
+Other,Super built-up Area,2631.0,4,3,2,1,200.0,148.64414347423417
+Dommasandra,Super built-up Area,1090.0,2,2,2,1,43.5,33.11555221250559
+Other,Super built-up Area,1200.0,2,2,2,1,52.5,62.597957436044574
+Basavangudi,Super built-up Area,1825.0,3,3,2,1,175.0,173.74047634024515
+1st Phase JP Nagar,Super built-up Area,2059.0,3,3,2,1,225.0,158.4356270939287
+Electronic City Phase II,Super built-up Area,1310.0,3,2,2,0,37.83,44.63474075430708
+Whitefield,Super built-up Area,1360.0,2,2,1,1,95.0,70.99361289546961
+Chikkalasandra,Built-up Area,1375.0,3,2,1,1,50.0,62.31606911951895
+Banashankari Stage VI,Super built-up Area,1392.0,3,3,1,0,69.46,64.04390069930223
+Electronic City,Super built-up Area,1350.0,3,2,1,1,56.0,57.76820367534202
+Anekal,Plot Area,1200.0,2,2,1,0,36.1,53.659985696903384
+Sarjapur  Road,Super built-up Area,1220.0,3,3,3,1,56.0,67.30802754076045
+Basaveshwara Nagar,Plot Area,4500.0,5,5,1,1,415.0,522.0371353032369
+Sarjapur,Built-up Area,2585.5,4,4,0,0,139.5,109.70357046678237
+Jalahalli,Built-up Area,1870.0,3,3,2,1,110.0,122.5602527250565
+Other,Super built-up Area,1194.0,2,2,1,1,51.0,62.81570598498187
+5th Block Hbr Layout,Super built-up Area,1100.0,2,2,2,1,48.0,46.93457494460451
+Old Madras Road,Super built-up Area,1859.0,3,3,2,1,121.0,103.63834047908061
+Other,Plot Area,1200.0,2,2,0,1,55.0,79.37181336999868
+Sonnenahalli,Super built-up Area,1120.0,2,2,2,1,43.0,51.83122340271209
+Yeshwanthpur,Super built-up Area,1876.0,3,3,3,1,160.0,115.62545863010713
+Other,Super built-up Area,1092.0,2,2,2,1,43.0,56.20491506138149
+Battarahalli,Super built-up Area,1945.0,3,3,2,1,97.42,91.34916467810227
+Kanakpura Road,Super built-up Area,1699.0,3,3,3,0,81.94,86.57037136810554
+Other,Built-up Area,1280.0,4,4,1,1,115.0,68.87139599916371
+Thigalarapalya,Super built-up Area,2912.0,4,6,2,1,210.0,233.06913586346803
+Thanisandra,Built-up Area,1874.0,3,4,1,1,130.0,118.82724586054661
+Yelahanka New Town,Super built-up Area,1400.0,3,2,2,1,80.0,60.15753535320164
+Other,Super built-up Area,1452.55,2,2,3,1,110.0,77.14658794549874
+Electronic City Phase II,Built-up Area,1300.0,2,2,2,1,28.0,47.052657303707036
+Banashankari Stage VI,Plot Area,4800.0,4,3,2,1,200.0,320.0488156043049
+BTM 2nd Stage,Built-up Area,1850.0,3,3,2,1,170.0,127.59633953666403
+Other,Super built-up Area,1058.0,2,2,2,1,60.0,54.2104409965515
+NRI Layout,Built-up Area,2700.0,4,5,1,1,95.75,135.8984533164999
+CV Raman Nagar,Super built-up Area,907.0,2,2,2,1,38.0,45.791529294628056
+Tumkur Road,Built-up Area,1060.0,3,2,2,1,58.3,64.17543030993154
+Other,Super built-up Area,1100.0,2,2,2,0,110.0,55.58926985246337
+Other,Super built-up Area,600.0,1,1,1,1,43.0,28.55481010272941
+Other,Plot Area,3000.0,3,3,0,1,250.0,226.58934802084423
+Sarjapur  Road,Super built-up Area,1157.0,3,2,1,0,75.0,61.01777148550805
+Ulsoor,Super built-up Area,2135.0,3,3,2,1,215.0,193.9419066060129
+Other,Built-up Area,1645.0,3,3,2,1,95.0,90.67425011925789
+Whitefield,Built-up Area,1125.0,2,2,2,1,45.0,57.08861375082009
+Hennur,Super built-up Area,2400.0,3,3,2,1,135.0,118.09285446299141
+Green Glen Layout,Built-up Area,940.0,2,2,1,1,56.8,56.58929154389081
+Devarachikkanahalli,Super built-up Area,1250.0,3,2,3,0,44.0,49.6543983115184
+Hebbal,Super built-up Area,1299.0,2,2,1,1,97.0,89.50726688807102
+Other,Super built-up Area,1084.0,2,2,2,1,50.0,55.734821531716065
+ITPL,Plot Area,1200.0,3,3,1,0,56.12,62.645705595410575
+Prithvi Layout,Super built-up Area,1352.0,2,2,2,1,75.0,84.59710186784403
+Other,Super built-up Area,1308.0,2,2,1,1,89.04,69.71177097342843
+Other,Built-up Area,705.0,1,1,2,1,36.5,34.28620647653089
+Other,Built-up Area,2500.0,3,4,2,1,65.0,151.70940600764928
+Harlur,Super built-up Area,2569.0,4,5,3,0,180.0,180.24438585559622
+Kanakapura,Super built-up Area,945.0,2,2,1,0,47.0,44.571811421629
+Hebbal,Super built-up Area,2080.0,3,3,3,1,175.0,150.80947559514007
+Other,Plot Area,2700.0,2,2,2,1,150.0,196.77279932400307
+Poorna Pragna Layout,Built-up Area,965.0,2,2,2,1,48.0,41.13008381152348
+Other,Built-up Area,960.0,2,2,2,1,32.0,48.89845833998214
+Lakshminarayana Pura,Built-up Area,1180.0,2,2,2,1,75.0,76.75582724317167
+Kanakpura Road,Super built-up Area,1843.0,3,3,2,1,95.84,97.75232131065142
+Kudlu Gate,Super built-up Area,1238.0,2,2,3,1,55.0,60.30873818943085
+Kammanahalli,Built-up Area,700.0,1,1,0,1,59.0,43.38803530154307
+Sarjapur  Road,Super built-up Area,1190.0,2,2,1,0,50.0,65.20534259496102
+Thubarahalli,Built-up Area,975.0,2,2,1,1,55.0,59.37345718744228
+Other,Super built-up Area,1230.0,2,2,2,1,57.0,64.38871122884093
+Koramangala,Built-up Area,1750.0,3,3,1,1,130.0,164.71541676165734
+Whitefield,Built-up Area,6000.0,4,4,2,1,410.0,388.1635137812132
+Other,Super built-up Area,1225.0,2,2,2,0,47.0,62.86148642598189
+Kanakpura Road,Carpet Area,1560.0,3,3,2,1,92.0,88.06928837143579
+Yelahanka,Super built-up Area,1326.0,2,2,2,1,57.0,65.21495276310934
+Electronic City,Super built-up Area,660.0,2,1,1,1,15.0,25.448657263235045
+Other,Super built-up Area,2849.0,4,5,2,1,250.0,175.1556432187525
+Other,Super built-up Area,2479.13,3,3,1,1,215.0,145.0517174757986
+Other,Super built-up Area,900.0,2,2,1,0,27.0,44.61043820536622
+Kasavanhalli,Built-up Area,2100.0,3,3,3,1,110.0,123.71386378830776
+Hebbal,Super built-up Area,1349.0,2,2,1,1,96.8,93.4533237466028
+Karuna Nagar,Built-up Area,2500.0,3,3,2,1,180.0,175.54958781911077
+Padmanabhanagar,Super built-up Area,1708.0,3,2,1,0,90.5,102.7437720964665
+Dodda Nekkundi,Super built-up Area,1829.0,3,3,2,1,125.0,89.5531057458715
+Whitefield,Super built-up Area,1985.0,3,3,2,1,75.0,108.59948888973481
+Other,Super built-up Area,3095.0,3,3,3,1,350.0,183.48658084200065
+Uttarahalli,Super built-up Area,1737.0,3,2,3,1,95.0,71.50184166799343
+Ramagondanahalli,Plot Area,540.0,1,1,0,1,30.0,28.579722603447838
+Electronic City,Super built-up Area,435.0,1,1,1,1,22.0,16.357871229381114
+Thanisandra,Super built-up Area,923.0,1,1,1,0,60.84,49.411135177244454
+Sarjapur  Road,Super built-up Area,2089.0,3,3,2,1,148.0,125.5659428745237
+Budigere,Super built-up Area,1820.0,3,3,2,1,93.0,95.7554850356402
+Sarjapur  Road,Super built-up Area,2180.0,3,4,3,1,180.0,135.49487835550835
+Uttarahalli,Built-up Area,1345.0,2,2,1,0,67.0,55.632644769966106
+Other,Super built-up Area,1200.0,2,2,1,1,54.0,63.17640059949038
+Yelahanka,Built-up Area,1325.0,3,2,2,1,58.0,63.464363483022666
+Hoodi,Super built-up Area,1258.5,2,2,0,0,59.135,68.99153931726839
+Other,Built-up Area,840.0,2,2,2,1,27.0,41.98098222502517
+Talaghattapura,Super built-up Area,2099.0,3,3,2,0,134.0,133.30983927101715
+Electronic City Phase II,Built-up Area,1200.0,2,2,1,0,34.65,42.5076125158137
+Sarjapur,Super built-up Area,1242.5,2,2,0,0,43.49,46.90587757019065
+Other,Super built-up Area,1800.0,3,3,2,1,88.0,99.70610636123018
+Mahadevpura,Super built-up Area,1146.0,2,2,1,1,53.8,53.75475276160955
+Bannerghatta Road,Super built-up Area,1268.0,2,2,1,0,69.0,64.34992990372216
+Other,Super built-up Area,1112.0,2,2,3,1,68.0,56.85689470865989
+Haralur Road,Super built-up Area,1300.0,2,2,2,1,73.0,68.23221635994989
+Rachenahalli,Super built-up Area,2721.0,3,3,2,1,113.0,154.87079716523095
+Electronic City Phase II,Built-up Area,1125.0,2,2,1,0,32.63,39.48664994551763
+Other,Super built-up Area,1400.0,3,2,2,1,62.0,72.13665748024232
+Other,Super built-up Area,1100.0,2,2,2,1,38.0,56.67549882198346
+Other,Plot Area,600.0,1,1,0,1,24.0,35.8749000700094
+Kengeri Satellite Town,Super built-up Area,1450.0,3,2,3,1,50.0,58.816335755734805
+Koramangala,Super built-up Area,2246.0,3,3,0,1,300.0,219.32408590856687
+Hulimavu,Super built-up Area,850.0,2,1,1,1,39.5,41.017050301660475
+Uttarahalli,Built-up Area,980.0,2,2,1,1,45.0,39.5071801401665
+Hebbal,Super built-up Area,1255.0,3,3,2,0,77.68,83.82665003784233
+Kundalahalli,Super built-up Area,1397.0,3,3,2,0,104.0,94.01910764067834
+Hormavu,Super built-up Area,1385.0,3,2,2,1,69.0,60.874371905990685
+Other,Plot Area,1300.0,2,2,2,1,95.0,85.38560243663859
+Doddathoguru,Built-up Area,1208.0,3,3,1,1,45.0,45.80730505224602
+Bisuvanahalli,Super built-up Area,850.0,2,1,1,1,32.0,31.511672259701427
+Whitefield,Built-up Area,1600.0,3,3,2,0,69.0,83.92532751469983
+Kaggalipura,Super built-up Area,700.0,1,1,0,1,38.0,35.54854226857305
+Other,Super built-up Area,2005.0,3,3,2,0,240.0,110.6174211447315
+Chandapura,Plot Area,1500.0,2,2,1,1,60.0,57.861091590029005
+EPIP Zone,Super built-up Area,2710.0,3,3,2,1,177.0,192.05472143340856
+Jalahalli,Built-up Area,1407.0,2,2,1,1,98.49,89.16656139827596
+Jigani,Super built-up Area,1252.0,3,3,3,1,55.0,66.61172386902044
+Other,Built-up Area,2597.0,4,4,3,1,189.0,151.71418173757152
+Other,Super built-up Area,1060.0,2,2,1,1,49.27,54.829532796329694
+Bhoganhalli,Built-up Area,970.0,2,2,1,1,52.5,53.84735731783991
+Vijayanagar,Built-up Area,989.0,2,2,0,1,60.0,62.23385483271097
+Other,Built-up Area,1750.0,3,3,1,1,180.0,98.21413290167708
+Yelachenahalli,Super built-up Area,1080.0,2,2,2,0,38.0,58.78405029958134
+Marathahalli,Super built-up Area,1220.0,2,2,1,1,56.5,66.6861728844222
+Haralur Road,Super built-up Area,1140.0,2,2,1,1,42.0,59.269425552679884
+Kaggadasapura,Super built-up Area,1256.0,3,2,2,1,50.0,51.055871009427236
+Kammanahalli,Plot Area,1200.0,2,1,1,1,81.0,94.96650845502448
+Other,Plot Area,1200.0,4,3,2,1,160.0,75.47772178143398
+Other,Super built-up Area,1500.0,2,2,1,1,50.0,81.51780247069573
+Sarjapur  Road,Super built-up Area,1390.0,2,2,2,1,62.0,78.66099989907993
+Kundalahalli,Super built-up Area,1047.0,2,2,1,1,82.62,69.4270136267386
+Balagere,Super built-up Area,1210.0,2,2,1,1,83.0,76.99300434306716
+Other,Super built-up Area,2400.0,4,5,1,1,85.0,145.32524374328543
+Whitefield,Plot Area,1500.0,3,3,1,0,61.9,97.17520282677009
+Thanisandra,Super built-up Area,1801.0,3,3,2,1,115.0,107.61795734067732
+Other,Super built-up Area,1200.0,2,2,2,1,38.0,62.597957436044574
+Channasandra,Super built-up Area,1030.0,2,2,1,1,34.5,38.9047311123425
+Whitefield,Built-up Area,1141.0,2,2,1,1,62.0,58.55310184192324
+Other,Built-up Area,2400.0,6,4,1,1,170.0,131.8649576955946
+Mallasandra,Super built-up Area,1325.0,2,2,1,1,70.0,69.2175278490297
+Other,Super built-up Area,1080.0,2,2,2,1,39.0,55.49995957108408
+Kanakpura Road,Super built-up Area,1507.0,3,2,3,1,95.0,74.19778070532111
+Chandapura,Super built-up Area,1305.0,3,3,1,0,33.28,38.97602749348886
+Arekere,Super built-up Area,1100.0,2,2,2,1,55.0,54.753619574145816
+Old Madras Road,Super built-up Area,1065.0,2,2,1,0,47.86,54.16811165461199
+Nagavara,Super built-up Area,1545.0,3,2,1,1,58.0,71.11120466769128
+Bannerghatta,Super built-up Area,2370.0,3,4,2,0,195.0,179.88090702240135
+Bannerghatta Road,Super built-up Area,1625.0,3,2,3,1,75.0,82.63215733524824
+Kengeri Satellite Town,Super built-up Area,1007.0,2,2,3,1,42.0,40.13357923308703
+Horamavu Banaswadi,Built-up Area,3800.0,6,8,0,1,200.0,206.04298801213238
+Begur Road,Super built-up Area,1410.0,3,2,3,1,54.99,49.72574815723106
+Whitefield,Super built-up Area,1235.0,2,2,2,0,47.0,61.800363214119116
+Other,Super built-up Area,1670.0,3,3,3,1,91.86,90.68578103066012
+Other,Built-up Area,1600.0,3,3,0,1,80.0,89.4774687868979
+Bellandur,Super built-up Area,1205.0,2,2,1,1,59.0,64.94046636778049
+Other,Built-up Area,1603.0,3,2,0,1,125.0,86.44699316981617
+Subramanyapura,Super built-up Area,1278.0,3,2,2,1,59.0,66.87672058423749
+Other,Plot Area,3600.0,4,4,2,1,300.0,274.608557412815
+Whitefield,Super built-up Area,1190.0,2,2,2,1,60.0,60.39235848127011
+Electronic City,Built-up Area,1210.0,2,2,1,1,55.0,53.1721030042064
+Hebbal Kempapura,Super built-up Area,1600.0,3,3,3,1,170.0,125.56843887406113
+Other,Built-up Area,2600.0,3,3,2,0,147.0,150.02780316019704
+Sarjapur,Super built-up Area,1032.0,2,2,1,1,42.0,38.33105206961376
+Chikkalasandra,Super built-up Area,1365.0,3,2,2,1,49.0,60.750756353833225
+Other,Super built-up Area,1180.0,2,2,2,1,40.0,61.40764567384285
+Doddathoguru,Super built-up Area,1030.0,2,2,2,1,42.0,37.446461652030635
+Other,Built-up Area,1740.0,3,3,2,1,55.0,96.67994253553846
+HRBR Layout,Built-up Area,1374.0,2,2,2,1,95.0,89.72913237828335
+Other,Carpet Area,1150.0,3,2,0,1,60.0,63.96754323227947
+Banashankari Stage V,Super built-up Area,1630.0,3,3,2,0,51.35,60.07824811151729
+Other,Super built-up Area,1315.0,2,2,2,1,90.0,69.4959019474037
+Other,Super built-up Area,1355.0,2,2,2,1,115.0,71.91578072269219
+Sarjapur  Road,Super built-up Area,1691.0,3,3,2,1,100.0,98.63185576399403
+Bharathi Nagar,Super built-up Area,1328.0,2,2,2,1,69.0,60.02590677635866
+Varthur Road,Super built-up Area,1255.0,2,2,2,0,52.76,45.49798035214053
+Nagavarapalya,Super built-up Area,1300.0,3,3,1,1,80.0,108.35664403191038
+Malleshwaram,Built-up Area,2000.0,3,3,2,1,250.0,235.58686733366343
+Kanakpura Road,Super built-up Area,1366.0,2,2,1,0,83.0,68.56765792539775
+Other,Super built-up Area,1200.0,3,2,2,1,35.0,60.49013843082307
+Frazer Town,Super built-up Area,1870.0,3,3,3,1,185.0,168.62294152037364
+Other,Super built-up Area,550.0,1,1,1,1,23.0,25.85320947560722
+Electronic City Phase II,Super built-up Area,1140.0,2,2,2,0,28.5,39.40884508892637
+Hennur Road,Super built-up Area,1341.0,2,2,1,0,95.0,77.12921729598474
+Other,Super built-up Area,1512.0,2,1,2,1,65.01,78.5809969598875
+7th Phase JP Nagar,Super built-up Area,1270.0,2,2,1,1,80.0,82.44451287288177
+Other,Super built-up Area,930.0,2,1,1,1,55.0,45.52125667603135
+Kasavanhalli,Super built-up Area,2035.0,3,3,2,0,142.0,117.2137416292145
+Iblur Village,Super built-up Area,3596.0,4,5,1,1,297.0,276.8740887320276
+Other,Plot Area,2260.0,2,3,1,1,80.0,168.114926419716
+Bannerghatta Road,Super built-up Area,1430.0,3,3,2,1,59.0,74.75168824196614
+Giri Nagar,Plot Area,4000.0,4,3,2,1,750.0,682.9183100127393
+Thanisandra,Super built-up Area,1020.0,2,2,1,0,44.5,55.515618475818755
+Marathahalli,Super built-up Area,1350.0,2,2,1,1,86.0,74.86278639349159
+LB Shastri Nagar,Super built-up Area,1000.0,2,2,1,1,49.5,48.15186041874936
+Electronic City Phase II,Super built-up Area,1244.0,2,2,1,0,55.0,43.94386658198458
+Other,Plot Area,1200.0,4,2,1,1,75.0,73.43792849614142
+Uttarahalli,Super built-up Area,1627.86,3,3,2,1,88.0,69.50445516721385
+Whitefield,Super built-up Area,1840.0,3,3,2,1,140.0,99.58599670935934
+Other,Built-up Area,1300.0,3,2,1,1,67.0,67.42479912038016
+Other,Built-up Area,5000.0,7,7,2,1,299.0,325.8723563556053
+CV Raman Nagar,Built-up Area,1435.0,3,2,2,1,60.0,75.32405242097651
+Horamavu Agara,Super built-up Area,1150.0,2,2,1,1,42.0,50.8626933299846
+Jakkur,Super built-up Area,1710.0,3,3,2,1,110.0,106.23962261803837
+Ramagondanahalli,Built-up Area,1910.0,3,3,2,1,142.0,96.63068539837279
+Other,Super built-up Area,1717.0,3,3,3,1,99.0,93.60691709590792
+Other,Super built-up Area,1100.0,2,2,2,1,32.0,56.67549882198346
+BTM 2nd Stage,Plot Area,2400.0,3,2,0,1,360.0,208.3245942980293
+Domlur,Built-up Area,640.0,1,1,0,1,55.0,47.9788342630094
+Whitefield,Super built-up Area,1216.0,2,2,1,1,84.0,62.47392207925203
+Haralur Road,Super built-up Area,1920.0,3,3,1,1,115.0,107.7592191040303
+Hormavu,Carpet Area,583.0,1,1,0,0,28.275,25.47018149753442
+Other,Super built-up Area,1639.0,3,3,1,0,77.89,88.6806752588995
+1st Phase JP Nagar,Built-up Area,840.0,1,2,2,1,50.0,59.2064536184883
+EPIP Zone,Super built-up Area,1285.0,2,2,2,1,82.0,81.70258902136939
+Sarjapur  Road,Super built-up Area,1660.0,3,2,2,1,116.0,93.09907691018283
+Devanahalli,Super built-up Area,1498.0,3,3,3,0,79.15,71.85127095060025
+Kengeri,Super built-up Area,1188.0,3,2,2,1,38.0,49.75078208062556
+Whitefield,Built-up Area,1558.0,3,3,2,0,90.0,81.41359175749174
+Other,Super built-up Area,1719.0,3,3,3,1,95.0,93.73147552105159
+Malleshwaram,Super built-up Area,620.0,1,1,1,1,86.8,61.613370230380085
+Attibele,Super built-up Area,400.0,1,1,1,1,10.25,11.03337701973139
+7th Phase JP Nagar,Super built-up Area,1200.0,2,2,2,1,62.5,76.56697311800609
+Marathahalli,Super built-up Area,1610.0,3,3,1,1,90.0,91.76102790028196
+Sarjapur  Road,Plot Area,3500.0,3,3,2,1,275.0,281.84187443316563
+Begur,Super built-up Area,1411.0,3,2,2,0,60.0,62.01773824474764
+Kadubeesanahalli,Super built-up Area,1424.0,3,2,2,1,75.0,84.92532649496398
+Sarjapur  Road,Built-up Area,915.0,2,2,2,1,37.0,49.17707162913417
+Raja Rajeshwari Nagar,Built-up Area,1570.0,3,2,2,1,65.0,65.26936275106554
+Bellandur,Built-up Area,960.0,2,2,2,1,48.0,50.02567712066877
+Other,Super built-up Area,1141.0,2,2,0,1,62.0,60.192012598846354
+Choodasandra,Super built-up Area,1530.0,3,3,2,0,77.0,79.38159798326602
+Devarachikkanahalli,Built-up Area,1116.0,2,2,1,1,47.0,47.25062926964702
+Kadugodi,Super built-up Area,1351.0,3,2,2,1,78.0,64.80810082758018
+Other,Built-up Area,1050.0,2,2,1,1,49.5,54.669474160427825
+Kanakpura Road,Super built-up Area,670.0,1,1,1,0,35.0,30.31868945902918
+Other,Super built-up Area,905.0,2,2,2,1,50.0,45.351801198801255
+Other,Built-up Area,3000.0,5,4,3,1,170.0,172.8674142214742
+Other,Super built-up Area,1160.0,2,2,1,1,41.75,60.77667213284345
+7th Phase JP Nagar,Super built-up Area,1680.0,3,2,3,1,92.0,107.66861517926057
+Other,Plot Area,2400.0,5,4,1,1,225.0,168.53461057594316
+Other,Built-up Area,1850.0,6,3,0,1,175.0,95.30357127990348
+Whitefield,Plot Area,3450.0,3,4,2,1,208.0,263.6633373345973
+Panathur,Super built-up Area,1075.0,2,2,2,1,60.0,64.23041179524986
+Other,Built-up Area,1508.0,3,3,2,1,70.25,82.10064632466741
+Jalahalli,Super built-up Area,1020.0,2,2,1,1,52.0,61.263384208023055
+JP Nagar,Super built-up Area,1850.0,3,2,2,1,110.0,102.996968936871
+HSR Layout,Super built-up Area,2020.0,3,3,2,1,160.0,106.1551909014599
+Other,Built-up Area,1000.0,2,2,2,1,53.0,51.23258146809792
+Sarjapur  Road,Built-up Area,1857.0,3,4,3,1,155.0,113.71098214298294
+Electronic City Phase II,Built-up Area,1065.0,2,2,1,0,30.75,37.09034637601217
+8th Phase JP Nagar,Super built-up Area,1245.0,2,2,1,0,59.0,54.874482392430885
+Other,Plot Area,3515.0,3,3,1,1,420.0,269.05293532582164
+Banashankari Stage V,Super built-up Area,1300.0,3,2,1,1,58.5,46.0258298939646
+Uttarahalli,Super built-up Area,1329.0,3,2,1,1,56.0,53.64005089149067
+Raja Rajeshwari Nagar,Built-up Area,1610.0,3,3,2,1,74.0,69.67599384555447
+Brookefield,Super built-up Area,1595.0,3,3,3,1,88.0,95.02638554987828
+Frazer Town,Built-up Area,3436.0,4,5,2,1,341.0,357.31888745529585
+Kothannur,Built-up Area,1100.0,2,2,2,1,40.0,42.24000097616543
+Kogilu,Built-up Area,540.0,1,1,0,1,36.0,20.680669218795366
+Other,Built-up Area,1255.0,3,2,1,1,60.0,64.76544110981976
+Other,Super built-up Area,2000.0,3,4,2,1,130.0,116.64935290518018
+Yelenahalli,Built-up Area,1600.0,3,3,3,1,61.37,63.498529811402726
+Hennur Road,Built-up Area,5000.0,8,8,2,1,250.0,358.11428502599534
+Whitefield,Super built-up Area,2321.0,3,4,1,0,157.0,133.31780982602007
+Bommenahalli,Plot Area,1670.0,4,3,0,1,135.0,155.53054901047744
+Haralur Road,Super built-up Area,1875.0,3,3,3,0,110.0,100.99392951628751
+Other,Super built-up Area,1080.0,3,2,2,1,75.0,53.63114668381902
+Yelahanka,Super built-up Area,1270.0,2,2,2,1,78.0,62.07850271441144
+Whitefield,Super built-up Area,1150.0,2,2,2,0,40.21,56.966019622896866
+Kalena Agrahara,Super built-up Area,800.0,2,2,1,1,40.0,38.693439375779434
+Other,Super built-up Area,1753.0,3,3,2,1,120.0,96.73783863562917
+Whitefield,Super built-up Area,1495.0,2,2,2,1,79.5,78.37445722112481
+Thanisandra,Super built-up Area,1265.0,2,2,1,1,78.0,72.37873158569474
+Hennur Road,Super built-up Area,1936.0,3,3,1,1,131.0,119.89647460967062
+Whitefield,Built-up Area,2444.0,4,4,2,1,145.0,139.1462479119441
+Yelachenahalli,Super built-up Area,1000.0,2,2,2,1,50.0,54.88894342451554
+Electronic City Phase II,Super built-up Area,1135.0,2,2,2,1,46.0,39.97767229794602
+Hebbal,Super built-up Area,1150.0,2,2,1,1,55.0,77.87878952996104
+Other,Super built-up Area,2100.0,3,3,3,1,170.0,117.81442747313113
+Jakkur,Super built-up Area,1760.0,3,3,2,1,139.0,109.79532059716733
+Other,Built-up Area,1007.0,2,2,2,1,43.0,51.64243581483637
+Whitefield,Plot Area,1500.0,3,3,1,0,78.57,97.17520282677009
+Whitefield,Built-up Area,3425.0,4,5,2,1,250.0,212.21458879445694
+Whitefield,Super built-up Area,1190.0,2,2,2,1,41.0,60.39235848127011
+Anekal,Built-up Area,400.0,1,1,1,1,11.5,12.599436333893358
+KR Puram,Built-up Area,750.0,2,2,1,1,25.0,29.322283904553387
+Banashankari Stage III,Plot Area,1350.0,1,1,1,1,145.0,94.98403860398774
+Bannerghatta Road,Super built-up Area,1100.0,2,2,0,1,39.0,56.290959499425384
+Electronic City Phase II,Super built-up Area,911.0,2,2,1,1,26.5,31.387084193727702
+Other,Plot Area,6688.0,4,6,1,1,700.0,605.0049994450825
+Other,Built-up Area,1153.0,2,2,2,1,45.0,60.27984399339963
+Bannerghatta Road,Built-up Area,1400.0,3,3,2,1,68.0,73.54201974235667
+Haralur Road,Super built-up Area,1027.0,2,2,2,0,44.0,51.12665741086659
+Vidyaranyapura,Super built-up Area,1100.0,2,2,1,1,41.0,51.29769056572173
+Other,Built-up Area,1400.0,3,3,2,1,53.0,75.41915906292111
+Other,Super built-up Area,3870.0,4,4,2,1,411.0,239.5931324595178
+Kanakapura,Super built-up Area,1020.0,2,2,1,1,42.83,49.58518697156416
+Thanisandra,Super built-up Area,1564.0,3,3,1,1,101.0,92.44522988618006
+Other,Super built-up Area,2280.0,3,3,2,1,285.0,130.61410090789028
+Other,Super built-up Area,905.0,2,2,1,0,50.0,44.893645741005045
+Indira Nagar,Super built-up Area,1470.0,2,2,2,1,170.0,155.16328359478032
+Sarjapur  Road,Super built-up Area,1879.0,3,3,2,1,155.0,111.25359050623248
+Whitefield,Plot Area,1200.0,2,2,1,0,46.13,75.13466835283127
+Chandapura,Super built-up Area,520.0,1,1,1,0,14.04,13.561337961084519
+Electronic City,Super built-up Area,1530.0,3,2,1,1,45.9,66.64692146985745
+Other,Built-up Area,4600.0,9,9,2,1,150.0,297.6585544151331
+Vijayanagar,Super built-up Area,1180.0,2,2,1,0,86.0,73.41603971019215
+Other,Super built-up Area,2000.0,3,3,2,1,85.0,112.45771439022504
+Raja Rajeshwari Nagar,Super built-up Area,1060.0,2,2,1,1,48.0,43.17999565552946
+Chamrajpet,Built-up Area,1050.0,2,2,1,1,162.0,95.4752883011319
+Banashankari,Super built-up Area,1800.0,3,3,2,1,125.0,99.07919742753565
+Other,Built-up Area,2400.0,3,3,1,1,260.0,140.88445317201396
+Hebbal,Built-up Area,1269.0,3,2,1,1,73.0,84.88365354045163
+Kengeri Satellite Town,Super built-up Area,920.0,2,2,3,1,39.0,36.19789090323338
+Yelahanka,Super built-up Area,1327.0,2,2,3,1,85.0,64.67351211633513
+Sarjapur  Road,Super built-up Area,1877.0,3,4,2,1,150.0,115.26005115824043
+Kambipura,Super built-up Area,883.0,2,2,1,1,37.01,40.752739661145895
+Other,Built-up Area,900.0,2,2,3,1,35.0,45.00741057135574
+Kathriguppe,Super built-up Area,1350.0,3,3,3,1,78.3,78.22807020531415
+Other,Super built-up Area,1620.0,3,3,3,1,95.0,87.5910121426437
+Other,Plot Area,1386.0,4,3,2,1,93.0,88.98246347726952
+Jalahalli,Super built-up Area,1045.0,2,2,2,1,76.77,62.404877379305894
+Other,Super built-up Area,1141.0,2,2,1,1,55.0,59.640894493803025
+5th Phase JP Nagar,Built-up Area,1700.0,3,2,3,1,100.0,83.7926490778048
+2nd Stage Nagarbhavi,Plot Area,2400.0,6,8,3,1,450.0,443.196351806716
+Other,Built-up Area,1600.0,4,4,2,1,90.0,88.0525128488985
+Other,Super built-up Area,4800.0,4,4,2,1,235.0,306.4159496144824
+Thanisandra,Super built-up Area,1588.0,3,3,1,0,75.55,92.26454096324294
+Other,Super built-up Area,1200.0,2,2,2,1,45.0,62.597957436044574
+Chandapura,Built-up Area,800.0,2,1,2,1,30.0,21.82594341898944
+Devarachikkanahalli,Super built-up Area,947.0,2,2,2,1,43.0,38.5052605506036
+Chandapura,Super built-up Area,645.0,1,1,1,0,16.45,17.344802252279216
+Garudachar Palya,Super built-up Area,1295.0,3,2,2,1,59.5,58.287714273875224
+Whitefield,Super built-up Area,1485.0,2,2,1,0,90.0,76.99020156630787
+TC Palaya,Built-up Area,1350.0,3,3,1,1,60.0,66.61886985248385
+Gollarapalya Hosahalli,Super built-up Area,1318.0,3,3,1,1,54.0,58.33827987585011
+Banaswadi,Super built-up Area,1365.0,2,2,2,1,73.0,74.5054832737971
+Green Glen Layout,Super built-up Area,1715.0,3,3,2,1,105.0,110.81870552382787
+Kaggadasapura,Super built-up Area,1280.0,3,2,2,1,56.0,52.171766499292076
+Kammanahalli,Built-up Area,2845.0,5,5,1,1,140.0,215.31328757293176
+Kambipura,Super built-up Area,1082.0,3,2,1,1,55.0,49.671312301213256
+Ananth Nagar,Super built-up Area,902.0,2,2,2,1,25.0,26.76685766374433
+Other,Plot Area,3750.0,4,4,2,1,190.0,287.7167454170101
+Talaghattapura,Super built-up Area,2038.5,3,3,0,0,120.0,131.3236111701103
+Amruthahalli,Super built-up Area,2650.0,3,4,0,1,175.0,152.15117680928415
+Electronic City,Super built-up Area,530.0,1,1,1,0,13.5,20.10546123822565
+Lingadheeranahalli,Super built-up Area,1506.0,3,3,1,1,95.0,96.50453944081843
+Indira Nagar,Super built-up Area,2601.0,3,4,2,0,312.0,303.65219718776484
+9th Phase JP Nagar,Super built-up Area,1331.95,2,2,2,1,69.0,62.713721363557
+Hoodi,Built-up Area,1500.0,2,2,1,1,84.0,85.84651297141066
+Ardendale,Built-up Area,3198.0,4,4,3,1,200.0,192.33098668487648
+Horamavu Agara,Super built-up Area,1557.0,3,3,1,1,70.0,72.0658133227932
+Other,Super built-up Area,1786.0,3,3,2,1,79.99,98.82077491244563
+Padmanabhanagar,Super built-up Area,1360.0,3,3,1,1,75.0,83.75801083123238
+Other,Built-up Area,3200.0,4,4,0,1,270.0,197.9654003081297
+Yelahanka,Super built-up Area,1304.0,2,2,1,1,69.97,64.57170139033236
+Thubarahalli,Super built-up Area,1330.0,2,2,1,1,75.0,83.98306420348004
+Varthur,Built-up Area,1160.0,2,2,2,1,44.0,52.055688976504634
+Gottigere,Super built-up Area,1222.0,2,2,1,1,63.0,49.247594856582474
+Bellandur,Super built-up Area,982.0,2,2,2,1,55.0,50.93316133686534
+9th Phase JP Nagar,Built-up Area,600.0,1,1,0,1,20.0,25.83190581709442
+Other,Built-up Area,1942.0,3,3,1,1,155.0,110.61587108767431
+Kothanur,Super built-up Area,1195.0,2,2,2,1,59.0,59.380826551359476
+Hebbal Kempapura,Super built-up Area,3729.0,4,4,2,1,384.0,333.9228251913423
+Kenchenahalli,Super built-up Area,1410.0,3,2,2,1,73.0,77.11157813001066
+Other,Super built-up Area,1567.0,3,2,3,1,62.0,81.29525223826121
+Somasundara Palya,Super built-up Area,1174.0,2,2,3,1,74.0,58.57790332092367
+Varthur,Super built-up Area,1665.0,3,3,2,0,71.58,76.72474220369355
+Other,Super built-up Area,1865.0,3,4,2,0,140.0,105.63520411996308

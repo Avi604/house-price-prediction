@@ -1,0 +1,47 @@
+{
+  "best_model": "Linear Regression",
+  "houses": 9872,
+  "locations": 234,
+  "train_size": 7897,
+  "test_size": 1975,
+  "comparison": [
+    {
+      "Model": "Linear Regression",
+      "R2": 0.8272,
+      "R2 std": 0.021,
+      "MAE (lakhs)": 17.2728,
+      "RMSE (lakhs)": 32.9097
+    },
+    {
+      "Model": "Ridge Regression",
+      "R2": 0.8263,
+      "R2 std": 0.0234,
+      "MAE (lakhs)": 17.3672,
+      "RMSE (lakhs)": 32.9616
+    },
+    {
+      "Model": "Gradient Boosting",
+      "R2": 0.83,
+      "R2 std": 0.0167,
+      "MAE (lakhs)": 18.4923,
+      "RMSE (lakhs)": 32.6732
+    },
+    {
+      "Model": "Random Forest",
+      "R2": 0.7864,
+      "R2 std": 0.0299,
+      "MAE (lakhs)": 18.9273,
+      "RMSE (lakhs)": 36.5483
+    }
+  ],
+  "test": {
+    "R2": 0.8384,
+    "MAE (lakhs)": 17.0548,
+    "RMSE (lakhs)": 31.8948,
+    "Median % error": 13.7643
+  },
+  "range_factors": [
+    0.763,
+    1.329
+  ]
+}
