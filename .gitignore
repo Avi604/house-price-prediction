@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# macOS / editors
+.DS_Store
+.vscode/
+
+# Generated files (recreated by the notebook / train.py)
+data/cleaned_house_data.csv
