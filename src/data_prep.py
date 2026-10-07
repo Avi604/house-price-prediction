@@ -4,9 +4,13 @@ Data cleaning for the Bengaluru House Price dataset.
 Each step is a small function so it can be shown one by one in the notebook
 and reused by train.py and the Streamlit app.
 """
+from pathlib import Path
+
 import pandas as pd
 
-RAW_PATH = "data/Bengaluru_House_Data.csv"
+# full path, so the code works no matter which folder it is started from
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+RAW_PATH = PROJECT_DIR / "data" / "Bengaluru_House_Data.csv"
 
 # How many square feet one unit is worth, for areas written in other units
 UNIT_TO_SQFT = {
